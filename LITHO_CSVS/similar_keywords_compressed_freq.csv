@@ -1,0 +1,734 @@
+,Attribute,Frequency,Similar_Words,NUM_TOKS
+0,igneous,188361,"[('igneous', 188361)]",55
+1,sedimentary,93604,"[('sedimentary', 93604)]",55
+2,metamorphic,69654,"[('metamorphic', 69654)]",55
+3,basalt,54511,"[('basalt', 54511), ('basaltic', 2225), ('basaltt', 2)]",55
+4,quartz,36599,"[('quartz', 36599), ('quartzdiorite', 1), ('quartzfeldspathic', 1), ('quartzite', 8190), ('quartzitel', 1), ('quartzitic', 19), ('quartzo', 60), ('quartzofeldspathic', 49), ('quartzofelspathic', 1), ('quartzose', 88), ('quartzoze', 1), ('quartzsedimentary', 1), ('quartzstone', 6), ('quartztite', 1), ('quartzx', 1)]",54
+5,unspecified,36181,"[('unspecified', 36181)]",54
+6,gneiss,33804,"[('gneiss', 33804), ('gneissgarnetmaybecamgfeormnrich', 1), ('gneissic', 433), ('gneissoid', 1), ('gneissose', 7), ('gneissossity', 1), ('gneisss', 1)]",56
+8,mafic,25914,"[('mafic', 25914), ('maficc', 2), ('maficrk', 1), ('maficto', 2)]",56
+9,granite,25454,"[('granite', 25454), ('graniteboss', 1), ('granitewith', 1), ('granite134gm', 1), ('granite82979', 1)]",54
+10,andesite,25205,"[('andesite', 25205)]",56
+11,shale,25132,"[('shale', 25132), ('shaleshale', 1), ('shalesslate', 1), ('shaley', 65), ('shale20', 1)]",54
+12,sandstone,23845,"[('sandstone', 23845), ('sandstoneandcalcirudite', 1)]",55
+13,intermediate,19599,"[('intermediate', 19599)]",54
+14,rhyolite,19058,"[('rhyolite', 19058), ('rhyolitek', 1)]",57
+15,schist,18573,"[('schist', 18573), ('schisto', 1), ('schistocity', 1), ('schistoe', 1), ('schistone', 1), ('schistose', 1439), ('schistosity', 13), ('schisty', 3)]",55
+16,tuff,18420,"[('tuff', 18420), ('tuffa', 4), ('tuffac', 2), ('tuffacecus', 1), ('tuffaceous', 2506), ('tuffacio', 1), ('tuffite', 4), ('tuffoceous', 1), ('tufft', 1), ('tuffwacke', 3), ('tuffy', 1), ('tuff40', 1)]",55
+17,rock,15288,"[('rock', 15288), ('rocke', 3), ('rocker', 2), ('rockfall', 1), ('rockfish', 7), ('rockford', 1), ('rockorphyry', 1), ('rocktype', 4), ('rockville', 1), ('rockwall', 1), ('rockwit', 1), ('rockwith', 2), ('rocky', 35)]",54
+18,limestone,13333,"[('limestone', 13333)]",54
+19,granodiorite,12986,"[('granodiorite', 12986)]",57
+20,biotite,12595,"[('biotite', 12595), ('biotitegranite', 1), ('biotitein', 1), ('biotitemetapelite', 1), ('biotiteot', 1), ('biotiteotie', 1), ('biotiteplus', 1)]",56
+21,metasomatic,11836,"[('metasomatic', 11836)]",56
+22,gabbro,11463,"[('gabbro', 11463), ('gabbrodiorite', 4), ('gabbrodolerite', 47), ('gabbroi', 1), ('gabbroic', 195), ('gabbroid', 28), ('gabbroint', 1), ('gabbronfeldspathic', 1), ('gabbronorite', 218), ('gabbrorite', 1)]",56
+23,present,11109,"[('present', 11109)]",54
+24,flow,10713,"[('flow', 10713), ('flowag', 1), ('flowage', 1), ('flowery', 1), ('flowor', 1), ('flowt', 2)]",54
+25,diorite,10514,"[('diorite', 10514)]",56
+26,dacite,9739,"[('dacite', 9739)]",55
+29,phyllite,9390,"[('phyllite', 9390)]",56
+30,syenite,9369,"[('syenite', 9369), ('syenitee', 1)]",56
+31,amphibolite,9276,"[('amphibolite', 9276)]",56
+32,ore,8896,"[('ore', 8896), ('oreana', 1), ('orebody', 8), ('oregon', 12), ('oreille', 3), ('orejano', 1), ('oremite', 3)]",54
+33,siliceous,8725,"[('siliceous', 8725)]",56
+34,mudstone,8685,"[('mudstone', 8685)]",55
+35,unknown,8609,"[('unknown', 8609)]",54
+36,quartzite,8190,"[('quartzite', 8190), ('quartzitel', 1)]",55
+37,greenstone,8174,"[('greenstone', 8174)]",55
+38,monzonite,8162,"[('monzonite', 8162)]",56
+40,grained,7395,"[('grained', 7395), ('grainedcakareousss', 1)]",55
+41,oil,7378,"[('oil', 7378)]",54
+44,massive,6871,"[('massive', 6871)]",54
+45,volcanic,6844,"[('volcanic', 6844), ('volcanicalsic', 1), ('volcaniclast', 12), ('volcaniclastic', 250)]",54
+46,vein,6495,"[('vein', 6495), ('veined', 360), ('veinin', 1), ('veining', 114), ('veinlet', 77), ('veinlt', 4), ('veinrx', 1), ('veintren', 1)]",54
+47,dolomite,6273,"[('dolomite', 6273)]",55
+48,laminated,6178,"[('laminated', 6178)]",55
+49,gray,6158,"[('gray', 6158), ('grayback', 2), ('graycalcareous', 3), ('graycalcareouscarbonaceousclaystone', 1), ('graycalcareouscarbonaceousss', 1), ('graycalcareousshalyss', 1), ('graycalciruditeandcalcareous', 1), ('graycarbonaceous', 1), ('graycarbonaceousclayeyvery', 1), ('grayclacareouscarbonaceous', 1), ('graygreen', 2), ('graygreenlim', 1), ('grayish', 235), ('graymembe', 1), ('graymicareouscalcareous', 1), ('grayorange', 1), ('graysandstone', 1), ('grayschist', 1), ('graysih', 2), ('graysill', 1), ('graywack', 2), ('graywacke', 1807), ('graywackee', 1), ('graywake', 2)]",54
+50,fine,5928,"[('fine', 5928), ('finegrain', 1), ('finell', 2), ('finely', 15), ('finer', 19), ('finesandstone', 1)]",54
+51,diabase,5871,"[('diabase', 5871), ('diabase8m', 1)]",56
+52,carbonaceous,5743,"[('carbonaceous', 5743)]",55
+53,porphyry,5693,"[('porphyry', 5693), ('porphyryitic', 10), ('porphyrym', 1), ('porphyryr', 1), ('porphyryry', 1), ('porphyrytic', 27), ('porphyryw', 1), ('porphyryy', 3)]",56
+54,green,5574,"[('green', 5574), ('greenalite', 5), ('greenamp', 1), ('greencarbonaceous', 1), ('greencarbonaceouspt', 1), ('greene', 1), ('greenfield', 1), ('greengrey', 2), ('greenhorn', 79), ('greenie', 1), ('greenish', 744), ('greenleaf', 1), ('greenmembe', 1), ('greenockite', 1), ('greenpoint', 4), ('greenschhist', 1), ('greenschist', 5274), ('greenserpentine', 1), ('greenshist', 1), ('greenst', 19), ('greenstn', 1), ('greenstone', 8174), ('greenville', 5), ('greenwater', 4), ('greenwich', 10), ('greenwood', 3), ('greeny', 9), ('greenygrey', 1)]",54
+55,unidentified,5522,"[('unidentified', 5522)]",54
+56,dike,5499,"[('dike', 5499), ('dikelet', 3)]",55
+57,metal,5465,"[('metal', 5465), ('metalamprophyre', 3), ('metalapillituff', 2), ('metalatite', 2), ('metalic', 6), ('metaliferous', 1), ('metallic', 25), ('metalliferous', 2), ('metallix', 2), ('metaluminous', 1)]",54
+59,calcareous,5133,"[('calcareous', 5133), ('calcareousveryfinesandstone', 1)]",56
+60,chert,5128,"[('chert', 5128), ('chertlike', 1), ('chertt', 1), ('cherty', 1042), ('chert5', 1)]",55
+61,mica,5106,"[('mica', 5106), ('micac', 7), ('micacaceous', 1), ('micaceaous', 1), ('micaceos', 1), ('micaceouc', 1), ('micaceous', 760), ('micaceousst', 1), ('micacledous', 1), ('micacous', 3), ('micae', 1), ('micaeous', 2), ('mical', 1), ('micarich', 1), ('micas', 26), ('micaschist', 8)]",55
+62,silty,5084,"[('silty', 5084), ('siltyandprobablyhassecondarysilica', 1)]",55
+63,organic,4967,"[('organic', 4967)]",54
+64,carbonate,4944,"[('carbonate', 4944), ('carbonated', 102)]",54
+66,base,4886,"[('base', 4886), ('basement', 31), ('baseof', 1), ('baseor', 1)]",54
+67,clayey,4885,"[('clayey', 4885)]",55
+68,feldspathic,4878,"[('feldspathic', 4878)]",57
+69,core,4855,"[('core', 4855), ('corestone', 5)]",54
+70,breccia,4543,"[('breccia', 4543), ('brecciabase', 1), ('brecciafe', 2), ('brecciaoxidized', 1), ('breccias', 25), ('brecciashear', 3), ('brecciasilica', 5), ('brecciated', 485), ('brecciatio', 1), ('brecciation', 7)]",56
+71,hornblende,4514,"[('hornblende', 4514), ('hornblendegranite', 1), ('hornblendeite', 2)]",56
+72,w,4470,"[('w', 4470)]",54
+73,olivine,4457,"[('olivine', 4457), ('olivineandesite', 3)]",56
+75,slate,4231,"[('slate', 4231), ('slater', 4), ('slatey', 17)]",54
+76,pelitic,4137,"[('pelitic', 4137)]",55
+77,black,4050,"[('black', 4050), ('blackbird', 4), ('blackburn', 4), ('blackcap', 3), ('blackfly', 1), ('blackfox', 1), ('blackgraphitic', 2), ('blackhawk', 3), ('blackish', 8), ('blackjack', 2), ('blacklead', 8), ('blackleaf', 1), ('blackpine', 2), ('blackrock', 3), ('blackstone', 3), ('blacktail', 2), ('blacktop', 1), ('blackverycarbonaceouscarbonate', 1), ('blackwater', 2), ('blackwood', 1)]",54
+78,aluminosilicate,4027,"[('aluminosilicate', 4027)]",58
+79,argillite,3980,"[('argillite', 3980)]",56
+81,latite,3783,"[('latite', 3783), ('latitedandesite', 1)]",55
+83,ash,3600,"[('ash', 3600), ('ashcroft', 12), ('ashdown', 1), ('ashe', 1), ('ashfall', 7), ('ashflow', 81), ('ashford', 1), ('ashland', 1), ('ashrock', 1), ('ashy', 77)]",54
+84,fe,3575,"[('fe', 3575)]",54
+86,conglomerate,3483,"[('conglomerate', 3483)]",55
+87,precious,3448,"[('precious', 3448)]",54
+88,matrix,3445,"[('matrix', 3445)]",54
+89,dark,3424,"[('dark', 3424), ('darkbluegrayolivinequartzbasaltfromresistantdikeonmoonhill', 1), ('darked', 1), ('darker', 17), ('darkgreenish', 1), ('darkish', 1)]",54
+90,phosphatic,3339,"[('phosphatic', 3339)]",55
+91,grey,3304,"[('grey', 3304), ('greyer', 1), ('greyey', 7), ('greygreen', 1), ('greyhound', 1), ('greyish', 46), ('greysilt', 1), ('greystone', 15), ('greyw', 1), ('greywacke', 261)]",54
+92,metasedimentary,3242,"[('metasedimentary', 3242)]",56
+93,porphyritic,3240,"[('porphyritic', 3240)]",56
+94,sample,3201,"[('sample', 3201), ('sampledarea', 1), ('samples', 475), ('sample1', 1)]",54
+95,marble,3167,"[('marble', 3167)]",54
+97,drill,2982,"[('drill', 2982), ('drillcore', 7), ('drillhole', 1), ('drilling', 89), ('drillpad', 1), ('drillroad', 1)]",54
+98,metasomatism,2947,"[('metasomatism', 2947)]",57
+100,pyroxenite,2859,"[('pyroxenite', 2859)]",57
+101,rich,2828,"[('rich', 2828), ('richard', 2), ('richardson', 20), ('richeau', 1), ('richgossaneous', 1), ('richnon', 1), ('richrock', 1), ('richtuf', 1)]",54
+102,meta,2779,"[('meta', 2779), ('metaamphib', 1), ('metaamphibolite', 6), ('metaandesite', 51), ('metaaplite', 1), ('metaarenite', 3), ('metaargillite', 2), ('metaautinite', 1), ('metabalt', 1), ('metabasalt', 1760), ('metabasaltic', 54), ('metabasic', 1), ('metabasite', 207), ('metabaslt', 4), ('metabreccia', 15), ('metacalcarenite', 2), ('metacalcareous', 1), ('metacarbonate', 43), ('metacarbonatite', 2), ('metacgl', 3), ('metachert', 127), ('metacht', 1), ('metaclaystone', 5), ('metaconglom', 2), ('metaconglomerate', 103), ('metacrystic', 1), ('metadacite', 318), ('metadb', 1), ('metadecite', 5), ('metadesite', 2), ('metadiabase', 275), ('metadiabaseor', 1), ('metadiabse', 2), ('metadiamictite', 1), ('metadike', 3), ('metadior', 4), ('metadiorit', 1), ('metadiorite', 333), ('metadolerite', 8), ('metadolomite', 3), ('metadolostone', 25), ('metadunite', 15), ('metafeldspar', 1), ('metafelsic', 7), ('metafelsite', 113), ('metagabbr', 1), ('metagabbro', 1121), ('metagabro', 1), ('metagabroic', 1), ('metagrabbo', 2), ('metagrabbro', 3), ('metagranit', 1), ('metagranite', 162), ('metagranitic', 1), ('metagranitoid', 1), ('metagranodiorite', 291), ('metagrawacke', 1), ('metagraywac', 1), ('metagraywacke', 727), ('metagreaywacke', 1), ('metagreenstone', 4), ('metagreywacke', 9), ('metagreywake', 1), ('metagrnt', 3), ('metagywk', 11), ('metahornblende', 1), ('metahornblendite', 28), ('metaign', 1), ('metaigneous', 17), ('metaironstone', 2), ('metajaspilite', 1), ('metakeratophyre', 19), ('metakomatiitic', 1), ('metal', 5465), ('metalamprophyre', 3), ('metalapillituff', 2), ('metalatite', 2), ('metalic', 6), ('metaliferous', 1), ('metallic', 25), ('metalliferous', 2), ('metallix', 2), ('metaluminous', 1), ('metam', 2), ('metamafic', 42), ('metamafite', 119), ('metamarl', 1), ('metamonzodiorite', 2), ('metamonzonite', 4), ('metamorh', 1), ('metamorhphism', 2), ('metamorp', 1), ('metamorph', 37), ('metamorphd', 2), ('metamorphi', 2), ('metamorphic', 69654), ('metamorphism', 13), ('metamorphix', 2), ('metamorphos', 5), ('metamorphosed', 211), ('metamudstone', 38), ('metam6rphic', 1), ('metandesite', 1), ('metanorite', 4), ('metapalagonite', 2), ('metapegmatite', 8), ('metapelite', 146), ('metapellite', 1), ('metaper', 1), ('metaperid', 6), ('metaperidotite', 50), ('metaphyroxenite', 1), ('metaplutonic', 2), ('metapolite', 1), ('metaporph', 1), ('metaporphyry', 6), ('metaprhyolite', 1), ('metapyrox', 1), ('metapyroxenite', 94), ('metaqrtzdiorite', 1), ('metaqtz', 1), ('metaqtzite', 4), ('metaquartz', 6), ('metaquartzite', 34), ('metargillite', 2), ('metarhy', 2), ('metarhyodacite', 22), ('metarhyolite', 488), ('metarodingite', 1), ('metarphyolite', 1), ('metasandstone', 216), ('metased', 117), ('metasedi', 3), ('metasediment', 827), ('metasedimentary', 3242), ('metasedimetary', 1), ('metasedmigma', 1), ('metasedmntry', 1), ('metasegregation', 2), ('metaserpentine', 1), ('metaseyenite', 1), ('metashale', 26), ('metasilicate', 10), ('metasilicic', 1), ('metasilicite', 10), ('metasiltite', 8), ('metasiltstone', 300), ('metasltst', 19), ('metasom', 3), ('metasomatic', 11836), ('metasomatism', 2947), ('metasomatite', 19), ('metasomatizd', 1), ('metasomatized', 47), ('metasomitite', 2), ('metason', 1), ('metaspilite', 2), ('metass', 3), ('metastibnite', 1), ('metasyenite', 3), ('metatactite', 4), ('metatexitic', 3), ('metatf', 2), ('metatonalite', 115), ('metatrachyte', 1), ('metatroctolite', 11), ('metatrondhjemite', 26), ('metatrondjhemite', 6), ('metatrondjhmite', 1), ('metatuff', 981), ('metatuffaceous', 1), ('metaultramafic', 8), ('metav', 1), ('metavol', 27), ('metavolc', 603), ('metavolcanic', 1177), ('metavolcaniclastic', 4), ('metavolcanilutite', 1), ('metavolvanic', 1), ('metawache', 1), ('metawacke', 47), ('metawebsterite', 1), ('metawehrlite', 1)]",54
+103,pumice,2709,"[('pumice', 2709), ('pumiceo', 1), ('pumiceou', 1), ('pumiceous', 188)]",56
+104,f,2677,"[('f', 2677)]",54
+105,dolomitic,2648,"[('dolomitic', 2648)]",56
+107,tonalite,2621,"[('tonalite', 2621)]",56
+108,feldspar,2616,"[('feldspar', 2616), ('feldsparite', 1), ('feldsparpheric', 1)]",56
+109,pyrite,2581,"[('pyrite', 2581), ('pyriteand', 1)]",55
+110,phosphorite,2540,"[('phosphorite', 2540)]",56
+111,tuffaceous,2506,"[('tuffaceous', 2506)]",56
+112,red,2496,"[('red', 2496), ('redbank', 1), ('redbblk', 1), ('redbed', 5), ('redcloud', 6), ('redd', 1), ('reddened', 5), ('reddish', 223), ('reddishorange', 1), ('redditt', 51), ('redemption', 2), ('redh', 1), ('redhorn', 1), ('redignrx', 1), ('redish', 6), ('redlion', 2), ('redmond', 16), ('redox', 14), ('redpaint', 2), ('redruth', 1), ('redstone', 27), ('reduc', 2), ('reduced', 46), ('reducti', 1), ('reduction', 16), ('redux', 1)]",54
+113,bearing,2477,"[('bearing', 2477), ('bearingfine', 1)]",54
+115,mine,2354,"[('mine', 2354), ('minearea', 1), ('minedgo', 3), ('miner', 8), ('mineral', 150), ('mineralic', 1), ('mineralisation', 1), ('mineralizatio', 1), ('mineralization', 167), ('mineralized', 3505), ('mineralizedmonz', 1), ('mineralizedtit', 1), ('mineralogy', 3), ('minerl', 6), ('minerlization', 7), ('minerlzd', 14), ('minersville', 2), ('minette', 28)]",54
+116,peridotite,2319,"[('peridotite', 2319)]",56
+117,m,2298,"[('m', 2298)]",54
+118,lake,2294,"[('lake', 2294), ('lakebed', 28), ('lakegroup', 1), ('lakelse', 2), ('lakeon', 1), ('lakeqtz', 1), ('lakeridge', 77), ('lakeshore', 2), ('lakeside', 1), ('laketown', 1), ('lakeview', 5)]",54
+119,mixed,2290,"[('mixed', 2290)]",54
+120,lava,2287,"[('lava', 2287), ('lavafcow', 1), ('lavafield', 1), ('laval', 1), ('lavas', 54)]",54
+122,basaltic,2225,"[('basaltic', 2225)]",56
+123,area,2177,"[('area', 2177)]",54
+125,zone,2143,"[('zone', 2143), ('zonein', 1)]",54
+127,absent,2111,"[('absent', 2111)]",54
+128,arkosic,2103,"[('arkosic', 2103)]",56
+130,silica,2035,"[('silica', 2035), ('silicaceous', 1), ('silicat', 1), ('silicate', 1051), ('silicateironformation', 1)]",54
+132,ferruginous,1953,"[('ferruginous', 1953)]",56
+134,foliated,1934,"[('foliated', 1934)]",55
+135,plagioclase,1924,"[('plagioclase', 1924)]",57
+137,s,1869,"[('s', 1869)]",54
+138,clay,1842,"[('clay', 1842), ('clayclast', 1), ('claye', 1), ('clayen', 1), ('clayey', 4885), ('claypan', 1), ('claysand', 1), ('clayshale', 81), ('clayst', 20), ('claystn', 1), ('claystone', 3873), ('clayton', 11)]",54
+139,alkalic,1833,"[('alkalic', 1833)]",55
+140,river,1826,"[('river', 1826), ('rivera', 2), ('riverview', 3)]",54
+141,sandy,1824,"[('sandy', 1824), ('sandybeach', 1)]",54
+142,glass,1809,"[('glass', 1809), ('glassburner', 1), ('glassy', 460)]",54
+143,graywacke,1807,"[('graywacke', 1807), ('graywackee', 1)]",57
+144,grain,1764,"[('grain', 1764), ('grainde', 1), ('graine', 4), ('grained', 7395), ('grainedcakareousss', 1), ('grainer', 1), ('grainey', 3), ('graini', 1), ('grainied', 1), ('grainitic', 1), ('grainitoid', 1), ('grainrd', 1), ('grainsize', 5), ('grainstone', 2), ('grainte', 1), ('grainy', 5)]",54
+147,c,1757,"[('c', 1757)]",54
+148,unoxidized,1721,"[('unoxidized', 1721)]",56
+149,dunite,1701,"[('dunite', 1701)]",55
+150,medium,1696,"[('medium', 1696)]",54
+151,high,1683,"[('high', 1683), ('highbe', 1), ('highgrade', 1), ('highl', 2), ('highland', 12), ('highlander', 23), ('highway', 31)]",54
+152,whole,1676,"[('whole', 1676), ('wholerock', 1)]",54
+155,coarse,1632,"[('coarse', 1632), ('coarser', 22), ('coarsest', 1)]",54
+156,trachyte,1629,"[('trachyte', 1629), ('trachytetrachydacite', 1)]",56
+158,iron,1605,"[('iron', 1605), ('ironmt', 1), ('ironst', 1), ('ironstained', 2), ('ironston', 3), ('ironstone', 241)]",54
+159,brown,1583,"[('brown', 1583), ('browncalcareoussandstone', 1), ('browner', 1), ('brownie', 3), ('brownish', 209), ('brownlee', 2), ('brownlow', 1), ('brownprospect', 1), ('browns', 14), ('browntoblackcarbonaceoustrashycalcareoussandstonese', 1)]",54
+161,minor,1521,"[('minor', 1521), ('minorcar', 1)]",54
+162,pegmatite,1503,"[('pegmatite', 1503)]",56
+164,fracture,1443,"[('fracture', 1443), ('fractured', 190), ('fracturess', 1)]",54
+165,schistose,1439,"[('schistose', 1439)]",56
+166,g,1430,"[('g', 1430)]",54
+167,creek,1423,"[('creek', 1423), ('creeks', 23), ('creek78d11', 1)]",54
+168,intrusive,1419,"[('intrusive', 1419)]",54
+170,rhyodacite,1381,"[('rhyodacite', 1381)]",58
+171,fragmental,1370,"[('fragmental', 1370)]",55
+172,petroliferous,1365,"[('petroliferous', 1365)]",56
+173,alt,1351,"[('alt', 1351), ('altation', 4), ('altd', 470), ('alte', 3), ('alted', 2), ('alter', 17), ('altera', 1), ('alterat', 1), ('alterati', 1), ('alteratio', 3), ('alteration', 489), ('alterd', 6), ('alterebleach', 1), ('altered', 7640), ('alteredpyroxene', 1), ('alteref', 1), ('alterer', 1), ('altern', 3), ('alternating', 11), ('altertion', 1), ('altertn', 1), ('altite', 1), ('altman', 1), ('altn', 29), ('alto', 12), ('altona', 2), ('altr', 1), ('altrd', 18), ('altrn', 15), ('altus', 1)]",54
+174,phase,1344,"[('phase', 1344)]",54
+175,unit,1330,"[('unit', 1330), ('unite', 1), ('unit1', 1), ('unit2', 2), ('unit2a', 2), ('unit3', 1)]",54
+176,light,1317,"[('light', 1317), ('lighte', 1), ('lighter', 9), ('lightgreen', 1), ('lightn', 4), ('lightner', 1), ('lightni', 2), ('lightnin', 3), ('lightning', 1188), ('lighty', 1)]",54
+179,d,1297,"[('d', 1297)]",54
+180,garnet,1295,"[('garnet', 1295), ('garnetifeous', 1), ('garnetiferous', 93), ('garnetifrous', 1), ('garnetironore', 1), ('garnetitarous', 1), ('garnetite', 66)]",55
+182,white,1277,"[('white', 1277), ('whitefish', 5), ('whitehead', 1), ('whitehorn', 1), ('whitehorse', 2), ('whiteish', 1), ('whiterock', 1), ('whitesail', 1), ('whitesburg', 3), ('whitestone', 4), ('whitetail', 10), ('whitetop', 5)]",54
+183,upper,1275,"[('upper', 1275), ('uppermost', 38)]",54
+184,district,1262,"[('district', 1262)]",54
+185,aplite,1261,"[('aplite', 1261)]",55
+188,pink,1234,"[('pink', 1234), ('pinkfeld', 1), ('pinkfs', 1), ('pinkish', 216), ('pinky', 1)]",54
+190,t,1223,"[('t', 1223)]",54
+191,fault,1212,"[('fault', 1212), ('faulty', 1)]",54
+192,zeolitic,1196,"[('zeolitic', 1196)]",56
+194,lightning,1188,"[('lightning', 1188)]",54
+197,granitic,1135,"[('granitic', 1135)]",55
+198,b,1129,"[('b', 1129)]",54
+200,chlorite,1117,"[('chlorite', 1117), ('chloriteblebs', 1), ('chloriteschist', 1)]",55
+201,felsite,1112,"[('felsite', 1112)]",56
+203,structural,1100,"[('structural', 1100)]",54
+205,setting,1097,"[('setting', 1097)]",54
+207,k,1070,"[('k', 1070)]",54
+208,obsidian,1065,"[('obsidian', 1065)]",55
+210,job,1057,"[('job', 1057), ('jobst', 1)]",54
+211,dominant,1054,"[('dominant', 1054)]",54
+212,n,1053,"[('n', 1053)]",54
+214,silicate,1051,"[('silicate', 1051), ('silicateironformation', 1)]",55
+215,cherty,1042,"[('cherty', 1042)]",55
+216,crust,1027,"[('crust', 1027), ('crustal', 4), ('crustiform', 3), ('crusty', 1)]",54
+218,manganiferous,1022,"[('manganiferous', 1022)]",57
+219,contract,1020,"[('contract', 1020)]",54
+222,well,1012,"[('well', 1012), ('wellcn', 1), ('wellfoli', 1), ('wellow', 1), ('wellsville', 1)]",54
+224,lithic,997,"[('lithic', 997)]",55
+227,aphanitic,974,"[('aphanitic', 974)]",56
+228,filling,973,"[('filling', 973)]",54
+229,shear,970,"[('shear', 970), ('sheard', 6), ('sheare', 2), ('sheared', 1018), ('shearedgraniteshowsformationofchlorite', 1), ('shearedgraygranite', 1), ('shearin', 1), ('shearing', 1), ('shearzone', 1)]",54
+230,sill,969,"[('sill', 969), ('sillbiofeld', 1), ('sillclfied', 6), ('sillgarbio', 1), ('silli', 1), ('sillica', 11), ('silliceous', 1), ('sillim', 97), ('sillima', 1), ('silliman', 1), ('sillimanite', 197), ('sillimanitic', 19), ('sillimante', 1), ('sillimantic', 1), ('sillimawite', 1), ('silliminanite', 1), ('sillst', 1), ('sillusi', 1)]",54
+231,clastic,957,"[('clastic', 957)]",55
+232,pyroxene,955,"[('pyroxene', 955), ('pyroxenedunitefrom', 1), ('pyroxenen', 1), ('pyroxenesm', 1)]",56
+233,magnetite,954,"[('magnetite', 954)]",55
+234,pillow,942,"[('pillow', 942), ('pillowe', 1), ('pillowed', 1482)]",54
+236,cavity,937,"[('cavity', 937)]",54
+237,section,935,"[('section', 935)]",54
+238,anorthosite,935,"[('anorthosite', 935)]",56
+239,arkose,928,"[('arkose', 928)]",55
+240,granitoid,917,"[('granitoid', 917)]",56
+241,pulp,912,"[('pulp', 912)]",54
+242,e,905,"[('e', 905)]",54
+243,dome,885,"[('dome', 885), ('domeland', 1)]",54
+246,phosphate,881,"[('phosphate', 881)]",54
+247,location,881,"[('location', 881), ('locational', 1)]",54
+248,pyritic,879,"[('pyritic', 879)]",55
+249,dump,877,"[('dump', 877), ('dumps', 18)]",54
+251,hole,872,"[('hole', 872)]",54
+252,u,867,"[('u', 867)]",54
+254,muscovite,861,"[('muscovite', 861)]",56
+257,jasperoid,849,"[('jasperoid', 849), ('jasperoidal', 5)]",56
+259,calcite,844,"[('calcite', 844), ('calciteon', 1)]",55
+260,inclusion,843,"[('inclusion', 843)]",54
+262,fresh,827,"[('fresh', 827), ('fresher', 16), ('freshest', 12), ('freshis', 1), ('freshwater', 3)]",54
+265,lamprophyre,818,"[('lamprophyre', 818)]",57
+267,v,811,"[('v', 811)]",54
+270,crystal,794,"[('crystal', 794), ('crystali', 1), ('crystaline', 1), ('crystall', 1), ('crystalline', 101), ('crystallizat', 1), ('crystallization', 3), ('crystallized', 2), ('crystaltuff', 2)]",54
+271,weathered,780,"[('weathered', 780)]",55
+272,adit,777,"[('adit', 777)]",55
+273,questionable,775,"[('questionable', 775)]",54
+274,split,765,"[('split', 765), ('splitic', 1), ('splitting', 1)]",54
+275,micaceous,760,"[('micaceous', 760), ('micaceousst', 1)]",55
+276,sericite,757,"[('sericite', 757)]",56
+277,water,752,"[('water', 752), ('waterfall', 3), ('waterflow', 2), ('waterhole', 2), ('waterlaid', 1), ('waterlain', 2), ('waterline', 2), ('waterloo', 2), ('waterpocket', 1), ('watersmeet', 3), ('watertower', 1)]",54
+278,canyon,751,"[('canyon', 751)]",54
+279,greenish,744,"[('greenish', 744)]",55
+280,depth,743,"[('depth', 743)]",54
+281,trondhjemite,741,"[('trondhjemite', 741)]",58
+282,magnesium,740,"[('magnesium', 740), ('magnesiumrich', 1)]",54
+283,above,739,"[('above', 739)]",54
+284,mag,727,"[('mag', 727), ('magadi', 1), ('magadiite', 2), ('magazine', 1), ('mageau', 1), ('mageik', 3), ('magentite', 2), ('magetic', 1), ('magetite', 1), ('maggie', 4), ('maghematite', 1), ('magic', 6), ('magitchte', 1), ('magma', 13), ('magmatic', 2), ('magmatite', 1), ('magn', 24), ('magnacon', 9), ('magnatite', 4), ('magne', 2), ('magnesian', 3), ('magnesio', 1), ('magnesioriebeckite', 1), ('magnesite', 28), ('magnesium', 740), ('magnesiumrich', 1), ('magnet', 14), ('magneti', 1), ('magnetic', 475), ('magneticrock', 1), ('magnetism', 1), ('magnetit', 4), ('magnetitc', 1), ('magnetite', 954), ('magnetitic', 1), ('magnetitite', 5), ('magnetserpentine', 2), ('magnitite', 2), ('magnoliite', 1), ('magobar', 2), ('magoffin', 1), ('magpie', 33), ('magrock', 1), ('magu', 1), ('magus', 1), ('magusi', 16), ('magxl', 1), ('mag1mm', 1)]",54
+287,sh,722,"[('sh', 722)]",54
+288,po,715,"[('po', 715)]",54
+290,banded,712,"[('banded', 712)]",55
+291,unconsolidated,709,"[('unconsolidated', 709)]",57
+292,l,708,"[('l', 708)]",54
+293,formation,703,"[('formation', 703), ('formationication', 2)]",54
+295,non,673,"[('non', 673), ('noname', 1), ('noncalc', 14), ('noncalcareous', 27), ('noncumulate', 5), ('nondistinctive', 1), ('none', 3), ('nonfoliated', 15), ('nonglassy', 1), ('nonhydrated', 4), ('nonmag', 13), ('nonmagnetic', 59), ('nonmagneticrock', 1), ('nonmassive', 61), ('nonmetallic', 127), ('nonmetalliferous', 2), ('nonpareil', 9), ('nonplastic', 1), ('nonpoik', 1), ('nonporph', 1), ('nonradioactive', 1), ('nonresistant', 1), ('nonschistose', 2), ('nonsulfidic', 1), ('nontonitic', 1), ('nontronite', 7), ('nontronitic', 1), ('nonweld', 1), ('nonwelded', 34)]",54
+296,butte,671,"[('butte', 671), ('butter', 1), ('butterfly', 1)]",55
+297,contact,656,"[('contact', 656)]",54
+298,i,655,"[('i', 655)]",54
+299,top,652,"[('top', 652), ('topagoruk', 10), ('topaz', 63), ('topofroundmtn', 1), ('topographic', 1), ('topopah', 6), ('topper', 1), ('toppmeier', 2), ('topstrt', 1)]",54
+300,near,649,"[('near', 649), ('nearbtm', 1), ('nearby', 20), ('neardiab', 1), ('neartop', 1), ('nearund', 1)]",54
+301,group,637,"[('group', 637)]",54
+302,middle,634,"[('middle', 634), ('middleburg', 3)]",54
+305,sand,609,"[('sand', 609), ('sandberg', 5), ('sanderson', 6), ('sandison', 4), ('sandite', 2), ('sandre', 1), ('sandst', 39), ('sandstn', 1), ('sandsto', 3), ('sandston', 4), ('sandstone', 23845), ('sandstoneandcalcirudite', 1), ('sandtone', 5), ('sandtown', 1), ('sandy', 1824), ('sandybeach', 1)]",54
+306,pyr,608,"[('pyr', 608), ('pyrchotite', 1), ('pyrclstic', 1), ('pyrfte', 1), ('pyrhe', 6), ('pyrhhotite', 1), ('pyrhot', 1), ('pyrhotitic', 1), ('pyrhottite', 1), ('pyri', 6), ('pyric', 4), ('pyrit', 13), ('pyrite', 2581), ('pyriteand', 1), ('pyrithic', 1), ('pyritic', 879), ('pyritif', 7), ('pyritiferous', 19), ('pyritization', 2), ('pyritized', 167), ('pyriton', 6), ('pyritzd', 1), ('pyrixene', 1), ('pyrlte', 1), ('pyro', 21), ('pyrobole', 6), ('pyrocene', 1), ('pyrocenite', 1), ('pyrocent', 1), ('pyrocl', 7), ('pyroclast', 4), ('pyroclastic', 384), ('pyroclst', 1), ('pyrograph', 1), ('pyrohic', 4), ('pyrohotite', 1), ('pyrohotitic', 1), ('pyrola', 27), ('pyrolusite', 12), ('pyromorphite', 2), ('pyroph', 37), ('pyrophillite', 1), ('pyrophyllite', 62), ('pyropic', 1), ('pyrosmalite', 1), ('pyrotic', 6), ('pyrox', 36), ('pyroxcne', 1), ('pyroxe', 2), ('pyroxee', 1), ('pyroxen', 9), ('pyroxenc', 1), ('pyroxene', 955), ('pyroxenedunitefrom', 1), ('pyroxenen', 1), ('pyroxenesm', 1), ('pyroxenite', 2859), ('pyroxenitic', 39), ('pyroxentite', 1), ('pyroxetite', 1), ('pyroxinite', 3), ('pyroxite', 1), ('pyrp', 4), ('pyrr', 8), ('pyrrh', 14), ('pyrrhetitic', 1), ('pyrrhotit', 11), ('pyrrhotite', 263), ('pyrrhotitic', 3), ('pyrrohite', 1), ('pyrrohtite', 1), ('pyrrotite', 1), ('pyrt', 3), ('pyrtie', 1), ('pyrtitic', 1), ('pyrx', 8)]",55
+307,bedded,606,"[('bedded', 606), ('bedded8robinson', 2)]",55
+308,bed,603,"[('bed', 603), ('bedd', 1), ('bedded', 606), ('bedded8robinson', 2), ('beddin', 1), ('bedding', 57), ('beddish', 1), ('bedford', 2), ('bedrock', 44), ('bedrx', 1), ('bed1', 1)]",54
+310,rhyolitic,600,"[('rhyolitic', 600)]",57
+311,vitrophyre,600,"[('vitrophyre', 600)]",56
+312,yellow,590,"[('yellow', 590), ('yellowband', 1), ('yellowcub', 1), ('yellowe', 1), ('yellowhouse', 2), ('yellowish', 197), ('yellowishbrowntograycalcareouscarbonaceous', 1), ('yellowjacket', 23), ('yellowstone', 5)]",54
+313,coal,590,"[('coal', 590), ('coalesced', 6), ('coalfield', 19), ('coalified', 3), ('coallyuorganic', 1), ('coalsced', 3), ('coaly', 133)]",54
+315,st,570,"[('st', 570)]",54
+316,vitric,570,"[('vitric', 570)]",55
+318,ne,569,"[('ne', 569)]",54
+320,migmatite,565,"[('migmatite', 565)]",56
+321,wacke,564,"[('wacke', 564), ('wackestone', 8)]",56
+322,norite,564,"[('norite', 564)]",55
+323,augite,558,"[('augite', 558)]",55
+324,grab,557,"[('grab', 557), ('graben', 9), ('grabs', 3)]",54
+325,andesitic,556,"[('andesitic', 556)]",56
+326,equigranular,554,"[('equigranular', 554), ('equigranularwhi', 1)]",57
+327,amphibole,548,"[('amphibole', 548)]",55
+328,olive,547,"[('olive', 547), ('olivene', 5), ('olivetint', 1)]",54
+330,buff,535,"[('buff', 535), ('buffalo', 22), ('buffalom', 1), ('buffe', 1), ('bufflo', 1), ('buffsil', 1)]",54
+331,cumulate,535,"[('cumulate', 535), ('cumulatendism', 1)]",55
+333,possible,529,"[('possible', 529), ('possibley', 1)]",54
+334,member,528,"[('member', 528)]",54
+335,mi,527,"[('mi', 527)]",54
+336,epidote,526,"[('epidote', 526), ('epidoteoc', 1)]",55
+337,laid,526,"[('laid', 526), ('laidlaw', 9), ('laidlow', 2)]",54
+339,vent,517,"[('vent', 517), ('ventifact', 1), ('ventura', 1), ('venture', 1)]",54
+342,augen,501,"[('augen', 501), ('augened', 2)]",55
+343,chalcopyrite,500,"[('chalcopyrite', 500), ('chalcopyriteand', 1), ('chalcopyriterite', 2)]",57
+344,pit,498,"[('pit', 498), ('pitchblende', 13), ('pitchstone', 4), ('pitmegea', 1), ('pitt', 1), ('pitted', 12), ('pittsburgh', 18), ('pitty', 1)]",54
+345,ridge,496,"[('ridge', 496), ('ridgecrest', 1)]",54
+347,limonitic,492,"[('limonitic', 492)]",56
+349,channel,490,"[('channel', 490), ('channelsample', 1)]",54
+350,alteration,489,"[('alteration', 489)]",54
+351,metarhyolite,488,"[('metarhyolite', 488)]",58
+353,orange,485,"[('orange', 485), ('orangey', 3)]",54
+354,brecciated,485,"[('brecciated', 485)]",56
+355,free,483,"[('free', 483), ('freeburn', 1), ('freedom', 2), ('freemont', 1), ('freen', 1), ('freeport', 90), ('freese', 1)]",54
+357,r,475,"[('r', 475)]",54
+358,composite,475,"[('composite', 475)]",54
+359,magnetic,475,"[('magnetic', 475), ('magneticrock', 1)]",54
+361,hornblendite,473,"[('hornblendite', 473)]",56
+364,mountain,465,"[('mountain', 465)]",54
+367,glassy,460,"[('glassy', 460)]",55
+368,grade,459,"[('grade', 459), ('graded', 36)]",54
+369,low,456,"[('low', 456), ('lowe', 7), ('lowell', 1), ('lowermost', 21), ('lowert', 1), ('lowhee', 2), ('lowr', 1)]",54
+372,phonolite,448,"[('phonolite', 448)]",56
+373,chip,447,"[('chip', 447), ('chipka', 6), ('chipped', 1), ('chippy', 10)]",54
+374,argillaceous,445,"[('argillaceous', 445)]",56
+375,chloritic,444,"[('chloritic', 444), ('chloriticmassive', 1)]",55
+377,prospect,442,"[('prospect', 442), ('prospectlimpmaterialalongslittrench', 1), ('prospector', 2)]",54
+378,inequigranular,442,"[('inequigranular', 442)]",58
+380,joint,441,"[('joint', 441), ('jointed', 25), ('jointing', 8), ('jointsin', 1)]",54
+381,spatter,434,"[('spatter', 434), ('spattercone', 1), ('spattervent', 1)]",55
+382,gneissic,433,"[('gneissic', 433)]",57
+383,se,430,"[('se', 430)]",54
+386,peak,427,"[('peak', 427)]",54
+387,pale,427,"[('pale', 427), ('palegrayishorangelaminateddolomite', 1), ('paleo', 8), ('paleocene', 16), ('paleosal', 3), ('paleosol', 10), ('paleosom', 1), ('paleosome', 11), ('paleozoic', 13), ('paleozoiic', 1), ('palerea', 1), ('palesom', 1)]",54
+388,sediment,424,"[('sediment', 424), ('sedimentary', 93604)]",54
+389,xenolith,423,"[('xenolith', 423), ('xenolithic', 16), ('xenolith26', 1)]",55
+391,alaskite,414,"[('alaskite', 414), ('alaskitepeg', 1)]",56
+392,tan,410,"[('tan', 410), ('tanacross', 20), ('tanah', 4), ('tand', 1), ('tandem', 7), ('tangerine', 1), ('tangle', 2), ('tango', 5), ('tank', 32), ('tannish', 6), ('tantalite', 3)]",54
+393,amygdaloidal,408,"[('amygdaloidal', 408)]",57
+394,incomplete,405,"[('incomplete', 405)]",54
+395,side,404,"[('side', 404), ('sideof', 1), ('sideout', 1), ('siderite', 81), ('sideriti', 1), ('sideritic', 9)]",54
+396,layer,401,"[('layer', 401), ('layered', 348), ('layering', 24)]",54
+397,road,401,"[('road', 401), ('roadcut', 48), ('roadside', 4)]",54
+399,sec,400,"[('sec', 400), ('seca', 7), ('seciton', 1), ('seco', 5), ('secon', 3), ('second', 17), ('secondary', 71), ('secret', 1), ('sect', 60), ('secti', 1), ('section', 935), ('security', 2), ('sec13', 1), ('sec16', 1), ('sec17', 4), ('sec17sabinosa', 1), ('sec19', 1), ('sec2t10sr21eblshalefaciesuintabbr', 2), ('sec2t10sr21eblshalefaciesuintabol', 5), ('sec23', 1), ('sec25', 2), ('sec3', 1), ('sec31', 1), ('sec34', 1)]",54
+400,outcrop,400,"[('outcrop', 400), ('outcrops', 5)]",55
+402,south,399,"[('south', 399), ('southb', 1), ('southeast', 14), ('southeastofmoonhill', 1), ('souther', 1), ('southermost', 1), ('southern', 83), ('southernmost', 2), ('southland', 1), ('southwest', 22), ('southwestern', 1)]",54
+403,float,391,"[('float', 391), ('floater', 1)]",54
+404,stock,390,"[('stock', 390), ('stockade', 1), ('stockdale', 2), ('stockj', 1), ('stockpile', 14), ('stockscheider', 9), ('stockton', 3), ('stockwk', 1), ('stockwork', 115)]",54
+405,galena,389,"[('galena', 389)]",55
+406,north,388,"[('north', 388), ('northbrook', 2), ('northeast', 14), ('northeasternmost', 1), ('northern', 49), ('northernmost', 1), ('northgener', 2), ('northosite', 1), ('northumberland', 9), ('northupite', 2), ('northwest', 14)]",54
+408,alkali,387,"[('alkali', 387), ('alkalic', 1833), ('alkalifedspar', 1), ('alkaline', 264)]",55
+409,abundant,386,"[('abundant', 386)]",54
+410,refer,386,"[('refer', 386), ('reference', 24)]",54
+411,hematite,385,"[('hematite', 385), ('hematitevein', 1)]",55
+412,bleached,385,"[('bleached', 385)]",55
+413,pyroclastic,384,"[('pyroclastic', 384)]",57
+414,malachite,383,"[('malachite', 383)]",56
+417,uranium,377,"[('uranium', 377)]",54
+418,leucocratic,373,"[('leucocratic', 373)]",56
+419,wall,370,"[('wall', 370), ('wallace', 5), ('wallow', 2), ('wallrock', 66), ('wallrx', 4)]",54
+420,quad,367,"[('quad', 367), ('quadrangle', 49)]",54
+421,nodular,366,"[('nodular', 366)]",55
+422,aphyric,365,"[('aphyric', 365)]",56
+424,barite,363,"[('barite', 363)]",55
+425,bay,362,"[('bay', 362), ('bayer', 5), ('bayfield', 1), ('bayhorse', 6), ('bayos', 1)]",54
+426,hill,361,"[('hill', 361), ('hillabee', 1), ('hillman', 47), ('hillside', 3), ('hilltop', 1)]",54
+427,veined,360,"[('veined', 360)]",55
+428,material,360,"[('material', 360)]",54
+430,east,359,"[('east', 359), ('easter', 42), ('eastern', 53), ('easternmost', 2), ('eastfork', 1), ('easton', 4), ('eastside', 13), ('eastsound', 1)]",54
+431,chlor,359,"[('chlor', 359), ('chlori', 1), ('chloride', 4), ('chloridic', 171), ('chlorit', 4), ('chlorite', 1117), ('chloriteblebs', 1), ('chloriteschist', 1), ('chloritic', 444), ('chloriticmassive', 1), ('chloritiod', 1), ('chloritioid', 1), ('chloritised', 2), ('chloritite', 2), ('chloritized', 156), ('chloritoid', 177), ('chloritzd', 1), ('chlorophaeitic', 2), ('chlorophaite', 1), ('chlorox', 1), ('chlortzd', 3)]",54
+433,fluorite,357,"[('fluorite', 357)]",55
+434,vesicular,356,"[('vesicular', 356), ('vesicularcalc', 1), ('vesicularity', 2)]",55
+435,cone,356,"[('cone', 356), ('conejos', 3), ('conemaugh', 10)]",54
+437,monzodiorite,355,"[('monzodiorite', 355)]",58
+438,intrusion,351,"[('intrusion', 351)]",54
+440,granulite,349,"[('granulite', 349)]",56
+441,tertiary,348,"[('tertiary', 348)]",54
+442,layered,348,"[('layered', 348)]",54
+443,dense,343,"[('dense', 343), ('densebluegrayfspporphyrydikecuttingbrownsparkfm', 1)]",54
+444,source,340,"[('source', 340)]",54
+445,tholeiite,340,"[('tholeiite', 340)]",57
+446,orthogneiss,338,"[('orthogneiss', 338), ('orthogneissic', 2)]",56
+448,basal,337,"[('basal', 337), ('basalt', 54511), ('basaltic', 2225), ('basaltt', 2)]",54
+449,blue,336,"[('blue', 336), ('blueberry', 1), ('bluebird', 2), ('bluebush', 1), ('bluecrk', 3), ('bluegrass', 3), ('bluegrayplag', 1), ('bluegre', 1), ('bluegrs', 1), ('blueish', 5), ('blueqtz', 1), ('blueridge', 1), ('bluesch', 2), ('blueschist', 183), ('bluestone', 1), ('bluewater', 1)]",54
+451,mass,333,"[('mass', 333), ('massi', 7), ('massice', 1), ('massie', 1), ('massif', 3), ('massiv', 1), ('massive', 6871), ('massivve', 1), ('massv', 1)]",54
+452,hand,333,"[('hand', 333), ('handle', 1), ('handsample', 1)]",54
+453,metadiorite,333,"[('metadiorite', 333)]",57
+455,purple,331,"[('purple', 331), ('purpleish', 1)]",54
+457,trace,328,"[('trace', 328), ('tracepyrite', 1)]",54
+458,adamellite,328,"[('adamellite', 328)]",55
+459,complex,327,"[('complex', 327)]",54
+460,thin,326,"[('thin', 326), ('thinkly', 1), ('thinly', 93), ('thinner', 1)]",54
+461,weakly,324,"[('weakly', 324)]",55
+462,oxide,324,"[('oxide', 324), ('oxidehamphibole', 1), ('oxideswith', 1)]",54
+463,saprolite,324,"[('saprolite', 324)]",56
+464,rusty,323,"[('rusty', 323)]",54
+465,limonite,323,"[('limonite', 323)]",56
+466,west,323,"[('west', 323), ('westdahl', 40), ('western', 30), ('westernmost', 6), ('westfield', 1), ('weston', 3), ('westridge', 1), ('westwater', 43)]",54
+468,sphalerite,320,"[('sphalerite', 320)]",56
+470,glauconitic,320,"[('glauconitic', 320)]",57
+471,gossan,319,"[('gossan', 319), ('gossaneous', 3), ('gossanous', 89), ('gossany', 10)]",56
+473,nepheline,318,"[('nepheline', 318)]",55
+474,unaltered,316,"[('unaltered', 316)]",56
+476,episode,315,"[('episode', 315)]",54
+478,chromite,313,"[('chromite', 313)]",55
+479,sovite,312,"[('sovite', 312)]",56
+480,quarry,306,"[('quarry', 306)]",54
+481,h,305,"[('h', 305)]",54
+482,carbon,304,"[('carbon', 304), ('carbona', 3), ('carbonaceaous', 1), ('carbonaceos', 4), ('carbonaceous', 5743), ('carbonado', 1), ('carbonae', 1), ('carbonale', 2), ('carbonalt', 1), ('carbonat', 6), ('carbonatae', 1), ('carbonate', 4944), ('carbonated', 102), ('carbonatic', 89), ('carbonatied', 1), ('carbonation', 2), ('carbonatised', 3), ('carbonatite', 854), ('carbonatitic', 2), ('carbonatitie', 1), ('carbonatiz', 1), ('carbonatization', 13), ('carbonatizd', 1), ('carbonatize', 2), ('carbonatized', 226), ('carbonceous', 1), ('carboneacous', 1), ('carboneaous', 1), ('carbonitic', 1), ('carbonitiz', 1), ('carbonitization', 3), ('carbonitized', 13), ('carbonized', 6), ('carbonizedfossilwoodse', 1), ('carbonizedwood', 1), ('carbont', 2)]",54
+483,alk,302,"[('alk', 302), ('alka', 1), ('alkalai', 1), ('alkali', 387), ('alkalic', 1833), ('alkalifedspar', 1), ('alkaline', 264), ('alkalt', 1), ('alklaine', 1), ('alkline', 3)]",54
+487,gold,299,"[('gold', 299), ('goldbar', 1), ('golded', 1), ('golden', 119), ('goldfield', 1), ('goldl', 1), ('goldlnd', 5), ('goldlond', 1), ('goldlund', 13), ('goldoccurence', 1), ('goldsmith', 1), ('goldstream', 11), ('goldstrike', 1), ('goldthorpe', 4), ('goldwin', 17)]",54
+489,hawaiite,296,"[('hawaiite', 296)]",56
+495,scoria,286,"[('scoria', 286), ('scoriaceous', 10), ('scoriae', 1)]",55
+496,diatomaceous,285,"[('diatomaceous', 285)]",56
+497,batholith,284,"[('batholith', 284)]",55
+499,fraction,282,"[('fraction', 282)]",54
+502,small,280,"[('small', 280)]",54
+504,ground,279,"[('ground', 279), ('groundcalcrete', 2), ('groundhog', 18), ('groundm', 1), ('groundmass', 166)]",54
+505,island,276,"[('island', 276)]",54
+506,pahoehoe,275,"[('pahoehoe', 275)]",57
+507,metadiabase,275,"[('metadiabase', 275), ('metadiabaseor', 1)]",57
+508,extrusive,273,"[('extrusive', 273)]",55
+509,chromitite,273,"[('chromitite', 273)]",56
+511,little,272,"[('little', 272), ('littleton', 3)]",54
+513,tactite,270,"[('tactite', 270)]",55
+514,radioactive,270,"[('radioactive', 270)]",54
+516,shaly,269,"[('shaly', 269)]",55
+517,dyke,268,"[('dyke', 268)]",55
+518,hard,267,"[('hard', 267), ('hardcastle', 1), ('hardiman', 2), ('hardin', 1), ('hardwick', 1), ('hardy', 4), ('hardyston', 2)]",54
+520,talc,264,"[('talc', 264), ('talcose', 30), ('talcost', 2), ('talcous', 1), ('talcy', 23)]",55
+521,alkaline,264,"[('alkaline', 264)]",55
+522,pyrrhotite,263,"[('pyrrhotite', 263)]",57
+523,silicic,263,"[('silicic', 263), ('silicica', 2), ('silicicastic', 36), ('siliciclastic', 14)]",56
+524,part,262,"[('part', 262), ('parte', 1), ('partial', 17), ('partiall', 1), ('partialy', 1), ('parting', 147), ('partoun', 1), ('partridge', 7)]",54
+525,cut,262,"[('cut', 262), ('cutan', 1), ('cutbank', 1), ('cuthbert', 1), ('cuthbertson', 5), ('cutler', 1), ('cuts5437ad', 1), ('cutting', 241)]",54
+526,tourmaline,262,"[('tourmaline', 262)]",56
+528,mo,261,"[('mo', 261)]",54
+530,j,259,"[('j', 259)]",54
+531,dacitic,258,"[('dacitic', 258)]",55
+533,q,258,"[('q', 258)]",54
+535,graphitic,257,"[('graphitic', 257)]",55
+536,crater,257,"[('crater', 257)]",54
+537,block,255,"[('block', 255), ('blockage', 1), ('blockhouse', 6), ('blocky', 103)]",54
+538,mesh,254,"[('mesh', 254)]",54
+539,see,252,"[('see', 252), ('seeber', 1), ('seeg', 6), ('seegmiller', 1), ('seem', 2), ('seep', 4)]",54
+541,sulphide,251,"[('sulphide', 251), ('sulphides', 40), ('sulphidesgabbro', 1)]",55
+544,sphene,250,"[('sphene', 250)]",55
+546,pebble,248,"[('pebble', 248), ('pebbley', 2)]",55
+547,sil,248,"[('sil', 248), ('silaceous', 1), ('silc', 3), ('silcic', 1), ('silcification', 1), ('silcrete', 5), ('silecous', 1), ('silent', 7), ('sileous', 1), ('silexite', 1), ('silfd', 1), ('silhydrite', 1), ('sili', 7), ('silic', 429), ('silica', 2035), ('silicaceous', 1), ('silicat', 1), ('silicate', 1051), ('silicateironformation', 1), ('silicd', 1), ('siliceceous', 1), ('siliceos', 1), ('siliceou', 1), ('siliceous', 8725), ('silicfd', 2), ('silici', 3), ('silicia', 2), ('silicic', 263), ('silicica', 2), ('silicicastic', 36), ('siliciclastic', 14), ('silicieous', 9), ('silicif', 12), ('silicifd', 1), ('silicifed', 12), ('silicifeid', 1), ('silicifi', 1), ('silicification', 22), ('silicificationliciron', 2), ('silicified', 1761), ('silicious', 8), ('silicocarbonate', 1), ('silicocarbonatite', 69), ('silieous', 1), ('silifcd', 1), ('silification', 1), ('sililic', 2), ('silimanite', 1), ('silisic', 2), ('silistone', 1), ('silitic', 6), ('silitite', 1), ('silitstone', 1), ('silky', 1), ('sill', 969), ('sillbiofeld', 1), ('sillclfied', 6), ('sillgarbio', 1), ('silli', 1), ('sillica', 11), ('silliceous', 1), ('sillim', 97), ('sillima', 1), ('silliman', 1), ('sillimanite', 197), ('sillimanitic', 19), ('sillimante', 1), ('sillimantic', 1), ('sillimawite', 1), ('silliminanite', 1), ('sillst', 1), ('sillusi', 1), ('silmanite', 1), ('silmillsit', 1), ('silr', 1), ('silrx', 4), ('silsilah', 1), ('silstn', 1), ('silstone', 14), ('silt', 234), ('silticeous', 1), ('siltite', 813), ('silts', 15), ('siltsone', 2), ('siltst', 27), ('siltstn', 7), ('siltsto', 1), ('siltston', 4), ('siltstone', 9600), ('silty', 5084), ('siltyandprobablyhassecondarysilica', 1), ('siltzite', 1), ('silurian', 85), ('silv', 3), ('silver', 199), ('silverlead', 1), ('silvermine', 1), ('silverwave', 4), ('silvery', 20)]",54
+549,bulk,245,"[('bulk', 245)]",54
+550,sparse,244,"[('sparse', 244)]",54
+551,sulfatic,244,"[('sulfatic', 244)]",55
+552,cutting,241,"[('cutting', 241)]",54
+553,ironstone,241,"[('ironstone', 241)]",55
+555,dis,240,"[('dis', 240), ('disagg', 1), ('disappointment', 2), ('disarticulate', 4), ('disbase', 2), ('disc', 6), ('disconformity', 1), ('discont', 5), ('discontin', 1), ('discontinuous', 1), ('discordant', 5), ('discoul', 1), ('discov', 2), ('discovery', 58), ('discovrypt', 1), ('discrete', 3), ('disem', 2), ('diseminated', 8), ('dishpan', 9), ('disk', 2), ('dism', 141), ('dispair', 1), ('disraeli', 7), ('disrupt', 1), ('diss', 205), ('disse', 2), ('dissected', 5), ('dissem', 282), ('dissemin', 1), ('dissemina', 1), ('disseminat', 3), ('disseminate', 4), ('disseminated', 428), ('dissemination', 1), ('dissen', 4), ('dissiminated', 4), ('dissm', 1), ('dissns', 1), ('dissol', 4), ('dissolution', 5), ('dissolved', 4), ('dist', 22), ('distal', 24), ('distilled', 36), ('distinct', 5), ('distinctive', 3), ('distr', 3), ('distri', 2), ('distributary', 1), ('distribution', 1), ('distric', 1), ('district', 1262)]",54
+556,limy,238,"[('limy', 238)]",55
+557,leuco,238,"[('leuco', 238), ('leucoadamellite', 6), ('leucocatic', 1), ('leucocr', 2), ('leucocratic', 373), ('leucodiabase', 4), ('leucodiorite', 10), ('leucogabbro', 280), ('leucogabbronorite', 2), ('leucogabro', 1), ('leucogabrronorite', 1), ('leucogarrbo', 3), ('leucogb', 1), ('leucogn', 4), ('leucogneiss', 26), ('leucogran', 1), ('leucogranite', 211), ('leucogranitic', 4), ('leucogranitoid', 2), ('leucogranodiorite', 9), ('leucomicroadamellite', 1), ('leucomonzogranite', 9), ('leucomonzonite', 3), ('leuconorite', 3), ('leucooiorite', 3), ('leucophyre', 2), ('leucoquartz', 2), ('leucoquartzdiorite', 1), ('leucoratic', 1), ('leucorcatic', 1), ('leucorhyolite', 1), ('leucosm', 1), ('leucosome', 31), ('leucosyenite', 6), ('leucoton', 1), ('leucotonalite', 5), ('leucotrachyte', 3), ('leucotrondhjemite', 1), ('leucovatic', 1), ('leucoxene', 9)]",55
+558,conglomeratic,238,"[('conglomeratic', 238)]",55
+559,type,237,"[('type', 237)]",54
+560,plug,236,"[('plug', 236), ('plugvabm', 1)]",54
+561,mottled,236,"[('mottled', 236), ('mottledgray', 1)]",56
+562,grayish,235,"[('grayish', 235)]",55
+564,silt,234,"[('silt', 234), ('silticeous', 1), ('siltite', 813), ('silts', 15), ('siltsone', 2), ('siltst', 27), ('siltstn', 7), ('siltsto', 1), ('siltston', 4), ('siltstone', 9600), ('silty', 5084), ('siltyandprobablyhassecondarysilica', 1), ('siltzite', 1)]",55
+565,copper,233,"[('copper', 233), ('copperfield', 4), ('coppermine', 1), ('coppervn', 1)]",54
+566,old,233,"[('old', 233), ('older', 98), ('oldolivine', 1), ('oldst', 1)]",54
+568,ranch,233,"[('ranch', 233), ('rancheria', 1)]",54
+570,deposit,232,"[('deposit', 232), ('deposition', 1)]",54
+571,granophyre,231,"[('granophyre', 231)]",56
+573,summit,230,"[('summit', 230), ('summitvile', 1), ('summitville', 84)]",54
+574,earn,229,"[('earn', 229)]",54
+575,related,229,"[('related', 229)]",54
+576,mylonite,228,"[('mylonite', 228)]",56
+577,gypsum,228,"[('gypsum', 228), ('gypsumiferous', 1)]",54
+578,big,228,"[('big', 228), ('bighorn', 1), ('bigsby', 5)]",54
+580,serpentine,226,"[('serpentine', 226), ('serpentineand', 1)]",56
+583,stain,224,"[('stain', 224), ('staind', 1), ('stained', 7), ('stainedcht', 1), ('stainin', 1), ('staining', 101)]",54
+584,reddish,223,"[('reddish', 223), ('reddishorange', 1)]",55
+586,humble,219,"[('humble', 219)]",54
+590,pinkish,216,"[('pinkish', 216)]",55
+593,bas,216,"[('bas', 216), ('basa', 3), ('basaalt', 1), ('basal', 337), ('basalt', 54511), ('basaltic', 2225), ('basaltt', 2), ('basand', 3), ('basanite', 54), ('basatic', 1), ('base', 4886), ('basement', 31), ('baseof', 1), ('baseor', 1), ('basic', 74), ('basil', 3), ('basin', 183), ('basinite', 1), ('basinolgrs', 1), ('basite', 5), ('basket', 2), ('baslat', 2), ('baslatic', 1), ('baslt', 2), ('basos', 1), ('baso4', 1), ('bassalt', 1), ('basso', 1), ('bastardo', 1), ('bastnaesite', 17), ('bastonite', 1)]",54
+594,description,216,"[('description', 216)]",54
+595,thick,215,"[('thick', 215), ('thicker', 1), ('thickly', 23), ('thickness', 14), ('thickt', 1)]",54
+596,p,215,"[('p', 215)]",54
+597,site,215,"[('site', 215)]",54
+599,late,213,"[('late', 213), ('lateintrusive', 1), ('later', 3), ('lateral', 1), ('laterite', 5), ('lateritic', 5)]",54
+601,contain,213,"[('contain', 213), ('containi', 1), ('containing', 1100)]",54
+602,potential,213,"[('potential', 213)]",54
+604,ox,212,"[('ox', 212)]",54
+606,soft,212,"[('soft', 212)]",54
+607,spar,211,"[('spar', 211), ('sparce', 5), ('sparite', 3), ('sparkly', 2), ('sparry', 4), ('sparse', 244), ('spartacus', 1)]",54
+611,brownish,209,"[('brownish', 209)]",55
+612,significance,209,"[('significance', 209)]",54
+613,suite,208,"[('suite', 208)]",54
+614,epigenetic,208,"[('epigenetic', 208)]",56
+615,ad,208,"[('ad', 208)]",54
+616,valley,207,"[('valley', 207)]",54
+617,agglomerate,207,"[('agglomerate', 207)]",56
+618,ma,207,"[('ma', 207)]",54
+619,metabasite,207,"[('metabasite', 207)]",56
+620,end,206,"[('end', 206), ('enderbite', 16), ('endless', 1), ('endo', 1), ('endogenous', 1), ('endoskarn', 34)]",54
+621,diss,205,"[('diss', 205), ('disse', 2), ('dissected', 5), ('dissem', 282), ('dissemin', 1), ('dissemina', 1), ('disseminat', 3), ('disseminate', 4), ('disseminated', 428), ('dissemination', 1), ('dissen', 4), ('dissiminated', 4), ('dissm', 1), ('dissns', 1), ('dissol', 4), ('dissolution', 5), ('dissolved', 4)]",54
+622,actinolite,204,"[('actinolite', 204)]",57
+624,o,203,"[('o', 203)]",54
+625,vol,202,"[('vol', 202), ('volanic', 3), ('volborthite', 2), ('volc', 1306), ('volca', 2), ('volcancl', 1), ('volcanclastic', 2), ('volcani', 1), ('volcanic', 6844), ('volcanicalsic', 1), ('volcaniclast', 12), ('volcaniclastic', 250), ('volcanilutite', 1), ('volcanism', 5), ('volcano', 108), ('volcanoclastic', 12), ('volcanogen', 1), ('volcanogenic', 12), ('volclast', 1), ('volclstoc', 1), ('volcs', 15), ('volitic', 1), ('volume', 1), ('voluminous', 1), ('volunteer', 3)]",54
+628,clinopyroxene,201,"[('clinopyroxene', 201)]",57
+629,stibnite,201,"[('stibnite', 201)]",56
+630,surface,200,"[('surface', 200)]",54
+631,silver,199,"[('silver', 199), ('silverlead', 1), ('silvermine', 1), ('silverwave', 4), ('silvery', 20)]",54
+632,dip,199,"[('dip', 199), ('dipping', 3)]",54
+635,vuggy,197,"[('vuggy', 197)]",55
+636,gar,197,"[('gar', 197), ('garbbronorite', 16), ('garbenschiefer', 1), ('garbiofeld', 2), ('garcia', 5), ('garden', 16), ('gardiner', 3), ('gardner', 5), ('gardnerville', 6), ('garf', 1), ('garfield', 57), ('gargoyle', 2), ('garita', 1), ('garland', 1), ('garn', 95), ('garne', 1), ('garner', 3), ('garnet', 1295), ('garnetifeous', 1), ('garnetiferous', 93), ('garnetifrous', 1), ('garnetironore', 1), ('garnetitarous', 1), ('garnetite', 66), ('garnitiferous', 2), ('garris', 2), ('garrison', 2), ('garrro', 2), ('garside', 3), ('garsill', 1), ('gary', 3)]",54
+637,yellowish,197,"[('yellowish', 197), ('yellowishbrowntograycalcareouscarbonaceous', 1)]",55
+638,sillimanite,197,"[('sillimanite', 197)]",56
+639,coquina,197,"[('coquina', 197)]",55
+642,gabbroic,195,"[('gabbroic', 195)]",57
+643,eclogite,195,"[('eclogite', 195)]",56
+645,spring,194,"[('spring', 194), ('springdale', 1), ('springer', 7), ('springfield', 2), ('springpole', 12), ('springtown', 2), ('springwagon', 1)]",54
+646,host,193,"[('host', 193), ('hostrock', 25)]",54
+647,bomb,193,"[('bomb', 193), ('bombardment', 1)]",54
+650,wehrlite,192,"[('wehrlite', 192)]",57
+651,oolitic,192,"[('oolitic', 192)]",56
+652,biotitic,192,"[('biotitic', 192)]",56
+655,ser,191,"[('ser', 191), ('serape', 1), ('serc', 15), ('serci', 1), ('sercite', 1), ('sercitie', 8), ('sercitzd', 1), ('sercte', 1), ('serdent', 1), ('serecite', 3), ('seri', 11), ('seriate', 32), ('seric', 68), ('sericfte', 1), ('serici', 2), ('sericicitzd', 1), ('sericilic', 1), ('sericit', 3), ('sericite', 757), ('sericitic', 153), ('sericitisation', 1), ('sericitization', 1), ('sericitizd', 1), ('sericitized', 113), ('sericrete', 1), ('serictic', 9), ('serictized', 1), ('serieite', 1), ('series', 65), ('serilitic', 1), ('seritic', 1), ('serlcjte', 1), ('serlclte', 1), ('serlelte', 1), ('serp', 128), ('serpe', 1), ('serped', 1), ('serpen', 2), ('serpent', 18), ('serpentenite', 10), ('serpenthite', 1), ('serpenti', 3), ('serpentiferous', 3), ('serpentin', 3), ('serpentine', 226), ('serpentineand', 1), ('serpentinite', 1287), ('serpentinitic', 9), ('serpentinizd', 9), ('serpentinized', 138), ('serpentinous', 1), ('serpentinzd', 2), ('serpentizd', 1), ('serpentnzd', 10), ('serpentzd', 1), ('serpintine', 5), ('serpzed', 1), ('serra', 2), ('serrate', 6), ('serreta', 1), ('service', 2), ('serviceberry', 5), ('servilleta', 1), ('servos', 2)]",54
+657,map,190,"[('map', 190), ('maphib', 1), ('maphic', 21), ('maple', 27), ('mappable', 1)]",54
+659,hi,190,"[('hi', 190)]",54
+660,same,188,"[('same', 188)]",54
+661,pumiceous,188,"[('pumiceous', 188)]",57
+662,reef,188,"[('reef', 188), ('reefal', 2)]",54
+663,belt,185,"[('belt', 185)]",54
+664,early,183,"[('early', 183), ('earlyinmorningof', 1)]",54
+665,basin,183,"[('basin', 183), ('basinite', 1), ('basinolgrs', 1)]",54
+667,cable,183,"[('cable', 183)]",54
+668,interbedded,183,"[('interbedded', 183)]",56
+669,gouge,181,"[('gouge', 181), ('gougey', 1)]",55
+670,hematitic,181,"[('hematitic', 181)]",55
+672,rim,181,"[('rim', 181), ('rimhiiaka', 1), ('rimmed', 7), ('rimrock', 9)]",54
+676,amount,179,"[('amount', 179)]",54
+677,mud,179,"[('mud', 179), ('mudbal', 1), ('mudball', 13), ('mudchip', 2), ('mudd', 1), ('muddy', 52), ('mudflow', 21), ('mudg', 2), ('mudrock', 7), ('muds', 2), ('mudseam', 2), ('mudshale', 10), ('mudslde', 3), ('mudst', 23), ('mudstaone', 1), ('mudstn', 4), ('mudstone', 8685)]",54
+679,pelite,177,"[('pelite', 177)]",55
+681,chloritoid,177,"[('chloritoid', 177)]",56
+682,teck,177,"[('teck', 177)]",55
+684,fossiliferous,176,"[('fossiliferous', 176)]",56
+686,pass,175,"[('pass', 175), ('passage', 11)]",54
+689,station,173,"[('station', 173)]",54
+690,lam,173,"[('lam', 173), ('lamallae', 2), ('lamb', 9), ('lamberson', 4), ('lambertville', 20), ('lamd', 4), ('lamellae', 4), ('lamellar', 1), ('lami', 1), ('lamin', 9), ('lamina', 2), ('laminae', 58), ('laminar', 7), ('laminated', 6178), ('lamination', 4), ('lamini', 1), ('laminite', 3), ('lamipuna', 15), ('lamivae', 1), ('lamjorite', 1), ('lamntd', 1), ('lamona', 1), ('lamp', 28), ('lamph', 3), ('lamphrophyre', 11), ('lamphropyre', 1), ('lamplogh', 1), ('lampro', 2), ('lamprohyr', 1), ('lamprohyre', 2), ('lamproite', 7), ('lampronite', 1), ('lamprophy', 1), ('lamprophye', 1), ('lamprophype', 2), ('lamprophyre', 818), ('lamprophyric', 13), ('lamprophyrl', 1), ('lampyrophyre', 2), ('lams', 2)]",54
+691,overburden,173,"[('overburden', 173)]",56
+692,rare,171,"[('rare', 171), ('rarer', 1)]",54
+694,pyx,171,"[('pyx', 171), ('pyxenite', 1)]",55
+696,level,170,"[('level', 170)]",54
+697,replicate,169,"[('replicate', 169)]",54
+698,lherzolite,168,"[('lherzolite', 168)]",58
+699,mineralization,167,"[('mineralization', 167)]",55
+701,weathering,167,"[('weathering', 167), ('weatheringeldspar', 1), ('weatheringssan', 3)]",55
+702,central,167,"[('central', 167)]",54
+703,texture,167,"[('texture', 167), ('textured', 57), ('texturedgranitehigherradioactivitycount', 1)]",54
+704,poor,166,"[('poor', 166)]",54
+705,groundmass,166,"[('groundmass', 166)]",55
+706,gulch,166,"[('gulch', 166)]",55
+709,trench,164,"[('trench', 164)]",54
+710,along,164,"[('along', 164), ('alongside', 2)]",54
+711,castle,163,"[('castle', 163)]",54
+712,main,162,"[('main', 162), ('mainland', 1), ('mainprize', 2), ('mainzone', 2)]",54
+715,interval,162,"[('interval', 162)]",54
+717,hem,159,"[('hem', 159), ('hema', 2), ('hemat', 1), ('hematiet', 1), ('hematiete', 1), ('hematit', 1), ('hematite', 385), ('hematitevein', 1), ('hematitic', 181), ('hematition', 1), ('hematization', 3), ('hematized', 35), ('hemattized', 1), ('hembrillo', 1), ('hemi', 1), ('hemimorphite', 7), ('hemite', 1), ('hemitite', 2), ('hemlo', 104), ('hemlock', 3), ('hemphill', 1), ('hempt', 1), ('hemt', 1), ('hemtitic', 1), ('hemtzd', 1)]",54
+719,range,158,"[('range', 158), ('rangely', 1), ('ranger', 46)]",54
+725,marl,155,"[('marl', 155), ('marlstone', 123)]",55
+728,sericitic,153,"[('sericitic', 153)]",56
+729,background,153,"[('background', 153)]",54
+730,hypersthene,153,"[('hypersthene', 153), ('hypersthenegabbro', 1)]",56
+731,ho,153,"[('ho', 153)]",54
+732,websterite,152,"[('websterite', 152)]",56
+733,flint,152,"[('flint', 152), ('flinton', 3), ('flinty', 10)]",55
+734,chill,151,"[('chill', 151), ('chilled', 71)]",54
+735,mahogany,151,"[('mahogany', 151)]",55
+736,mineral,150,"[('mineral', 150), ('mineralic', 1), ('mineralisation', 1), ('mineralizatio', 1), ('mineralization', 167), ('mineralized', 3505), ('mineralizedmonz', 1), ('mineralizedtit', 1), ('mineralogy', 3)]",54
+737,point,150,"[('point', 150)]",54
+738,nodule,150,"[('nodule', 150)]",55
+741,alunite,149,"[('alunite', 149)]",56
+742,y,149,"[('y', 149)]",54
+743,original,148,"[('original', 148)]",54
+744,till,148,"[('till', 148), ('tilled', 1), ('tiller', 1), ('tillery', 1), ('tillett', 1), ('tillicum', 12), ('tillite', 4), ('tillitic', 1), ('tilloid', 1)]",54
+745,albite,148,"[('albite', 148), ('albiteandquartz', 1), ('albiteccleavlandite', 1)]",55
+747,deep,147,"[('deep', 147), ('deeply', 3)]",54
+749,waste,147,"[('waste', 147)]",54
+753,unmineralized,146,"[('unmineralized', 146)]",57
+754,soil,145,"[('soil', 145)]",54
+758,dawsonite,144,"[('dawsonite', 144)]",57
+761,thesis,144,"[('thesis', 144)]",54
+764,x,142,"[('x', 142)]",54
+766,harzburgite,141,"[('harzburgite', 141)]",56
+768,boulder,140,"[('boulder', 140)]",55
+769,melt,140,"[('melt', 140), ('melteigite', 5)]",54
+770,dolerite,140,"[('dolerite', 140)]",56
+771,aa,139,"[('aa', 139)]",54
+773,mat,139,"[('mat', 139), ('matachew', 1), ('matachewan', 5), ('matancilla', 3), ('match', 1), ('matchewan', 2), ('mateen', 3), ('matela', 3), ('mateo', 1), ('materi', 3), ('material', 360), ('matic', 1), ('matinenda', 1), ('matirx', 2), ('matix', 2), ('matl', 11), ('matr', 5), ('matri', 2), ('matric', 3), ('matrix', 3445), ('matrx', 3), ('matsudoi', 1), ('matt', 2), ('matter', 36), ('mature', 3), ('matz', 8)]",54
+775,diopside,138,"[('diopside', 138)]",56
+776,state,138,"[('state', 138)]",54
+777,cross,138,"[('cross', 138), ('crosscut', 3), ('crosse', 1), ('crossecho', 3), ('crossing', 11), ('crossite', 2), ('crossnore', 6)]",54
+781,shoshonite,138,"[('shoshonite', 138), ('shoshonitetuff', 1)]",57
+782,long,137,"[('long', 137), ('longhorn', 1), ('longnecker', 1), ('longview', 3)]",54
+783,hot,137,"[('hot', 137), ('hotel', 1), ('hotlum', 10), ('hottest', 1)]",54
+784,tunnel,137,"[('tunnel', 137)]",54
+785,acid,137,"[('acid', 137), ('acidic', 1)]",54
+788,spinel,136,"[('spinel', 136)]",55
+789,keratophyre,136,"[('keratophyre', 136)]",57
+792,margin,135,"[('margin', 135), ('marginal', 27)]",54
+794,semi,135,"[('semi', 135), ('semiflint', 1), ('semimass', 1), ('semimassive', 1), ('seminal', 5), ('seminodular', 3), ('seminoe', 2), ('seminole', 12), ('semipelitic', 1), ('semipeltic', 1), ('semiquant', 2), ('semis', 1), ('semisch', 11), ('semischist', 99), ('semischistose', 2), ('semislate', 1), ('semitranslucent', 1)]",54
+797,trachyandesite,134,"[('trachyandesite', 134)]",58
+799,micro,133,"[('micro', 133), ('microadamellite', 1), ('microbio', 1), ('microbreccia', 1), ('microcl', 1), ('microclin', 2), ('microcline', 114), ('microcrystaline', 1), ('microcrystalline', 6), ('microdiabasic', 2), ('microdiorite', 123), ('microdolerite', 1), ('microfoyaite', 1), ('microgabbro', 123), ('microgabbronorite', 1), ('microgneiss', 2), ('micrograbbro', 1), ('microgranite', 13), ('microgranitoid', 1), ('microgranodiorite', 2), ('microgranophyre', 1), ('microgranular', 1), ('micrographic', 2), ('micrograywacke', 1), ('microline', 1), ('microlit', 1), ('microlite', 3), ('microlitic', 3), ('micromonzonite', 2), ('micron', 12), ('micronorite', 2), ('micropegmatite', 2), ('microperthite', 2), ('micropheno', 1), ('microphyric', 5), ('microporp', 1), ('microporph', 7), ('microporphy', 1), ('microporphyritic', 8), ('microporphyry', 5), ('microquartzite', 1), ('microscopic', 3), ('microspinefex', 1), ('microstyla', 1), ('microstylotitic', 1), ('microsyenite', 3), ('microtonalite', 2), ('microvesicular', 3), ('microvisclr', 1), ('microxline', 4), ('microxt', 2)]",54
+800,debris,133,"[('debris', 133)]",54
+801,graphite,133,"[('graphite', 133)]",54
+802,product,133,"[('product', 133)]",54
+803,coaly,133,"[('coaly', 133)]",55
+804,pseudotachylite,133,"[('pseudotachylite', 133)]",58
+805,wide,132,"[('wide', 132)]",54
+807,poss,132,"[('poss', 132), ('possi', 2), ('possib', 4), ('possible', 529), ('possibley', 1), ('possirle', 1), ('possivle', 1)]",54
+808,shonkinite,131,"[('shonkinite', 131)]",57
+810,edge,130,"[('edge', 130), ('edgecumbe', 15), ('edgefield', 1), ('edger', 3)]",54
+811,fall,130,"[('fall', 130), ('fallout', 1)]",54
+812,lacustrine,130,"[('lacustrine', 130)]",56
+815,assay,128,"[('assay', 128)]",54
+816,yell,128,"[('yell', 128), ('yellish', 2), ('yello', 1), ('yellow', 590), ('yellowband', 1), ('yellowcub', 1), ('yellowe', 1), ('yellowhouse', 2), ('yellowish', 197), ('yellowishbrowntograycalcareouscarbonaceous', 1), ('yellowjacket', 23), ('yellowstone', 5)]",54
+817,ti,128,"[('ti', 128)]",54
+819,border,127,"[('border', 127)]",54
+820,maroon,127,"[('maroon', 127), ('maroonish', 2)]",55
+822,nonmetallic,127,"[('nonmetallic', 127)]",56
+823,mesa,127,"[('mesa', 127), ('mesaverde', 1)]",54
+825,pegmatitic,126,"[('pegmatitic', 126)]",56
+826,arm,126,"[('arm', 126), ('armagosa', 1), ('armor', 2), ('armour', 1), ('armstrong', 1)]",54
+831,mount,124,"[('mount', 124), ('mountain', 465)]",54
+832,gangue,124,"[('gangue', 124)]",55
+833,bar,124,"[('bar', 124), ('barabara', 1), ('barbara', 2), ('barber', 1), ('barca', 2), ('barcelona', 1), ('barclay', 3), ('bard', 1), ('bardon', 2), ('bari', 1), ('baricite', 1), ('bariod', 1), ('barite', 363), ('baritic', 32), ('bark', 1), ('barker', 27), ('barlow', 1), ('barn', 19), ('barnard', 1), ('barney', 2), ('baron', 1), ('barr', 1), ('barrel', 1), ('barren', 108), ('barrett', 7), ('barrick', 1), ('barron', 8), ('barrow', 18), ('bart', 2), ('bartlet', 2)]",54
+834,friable,124,"[('friable', 124)]",55
+838,large,123,"[('large', 123), ('largesill', 1)]",54
+839,size,123,"[('size', 123), ('sized', 42), ('size1', 1)]",54
+842,moderate,121,"[('moderate', 121), ('moderatelt', 1)]",54
+843,grid,121,"[('grid', 121)]",54
+845,granular,120,"[('granular', 120)]",55
+846,unnamed,120,"[('unnamed', 120)]",54
+850,golden,119,"[('golden', 119)]",54
+855,head,118,"[('head', 118), ('headframe', 1)]",54
+856,weak,118,"[('weak', 118), ('weakly', 324)]",54
+857,flat,118,"[('flat', 118), ('flathead', 1), ('flatiron', 5), ('flatsil', 1), ('flatt', 1), ('flatten', 2), ('flattened', 21), ('flattop', 10)]",54
+859,purplish,118,"[('purplish', 118)]",56
+862,loess,118,"[('loess', 118)]",55
+865,calk,118,"[('calk', 118)]",55
+869,melanocratic,117,"[('melanocratic', 117)]",55
+870,park,117,"[('park', 117), ('parke', 92), ('parker', 12), ('parkin', 1), ('parking', 2)]",54
+874,phyllitic,116,"[('phyllitic', 116)]",56
+877,stockwork,115,"[('stockwork', 115)]",55
+878,stone,115,"[('stone', 115), ('stonewall', 2), ('stoney', 1)]",54
+879,bottom,115,"[('bottom', 115)]",54
+880,project,115,"[('project', 115)]",54
+882,ruby,114,"[('ruby', 114)]",54
+883,veining,114,"[('veining', 114)]",55
+884,diatreme,114,"[('diatreme', 114)]",56
+886,microcline,114,"[('microcline', 114)]",55
+887,dioritic,113,"[('dioritic', 113)]",56
+891,cliff,112,"[('cliff', 112), ('clifford', 3), ('cliffside', 1)]",54
+892,typical,111,"[('typical', 111)]",54
+893,bear,111,"[('bear', 111), ('bearcanyonandso', 1), ('bearcub', 44), ('bearinf', 1), ('bearing', 2477), ('bearingfine', 1), ('bearpaw', 1), ('beartown', 3), ('beartrack', 15), ('bearwallow', 1)]",54
+895,fissile,111,"[('fissile', 111)]",55
+897,san,111,"[('san', 111), ('sanadine', 7), ('sanchez', 2), ('sand', 609), ('sandberg', 5), ('sanderson', 6), ('sandison', 4), ('sandite', 2), ('sandre', 1), ('sandst', 39), ('sandstn', 1), ('sandsto', 3), ('sandston', 4), ('sandstone', 23845), ('sandstoneandcalcirudite', 1), ('sandtone', 5), ('sandtown', 1), ('sandy', 1824), ('sandybeach', 1), ('sanford', 4), ('sanid', 1), ('sanidine', 75), ('sanidinite', 1), ('sanmiguelia', 1), ('sanpoil', 2), ('sanstone', 1), ('santa', 15), ('santaclaraite', 1), ('santos', 7), ('sany', 1)]",54
+898,picrite,110,"[('picrite', 110)]",55
+902,corona,110,"[('corona', 110), ('coronado', 1), ('coronaed', 10), ('coronalion', 4), ('coronas', 9), ('coronation', 1)]",55
+903,manganese,109,"[('manganese', 109)]",54
+904,foliation,109,"[('foliation', 109)]",55
+905,claim,109,"[('claim', 109)]",54
+907,platy,108,"[('platy', 108)]",55
+908,spherulitic,108,"[('spherulitic', 108)]",57
+909,volcano,108,"[('volcano', 108), ('volcanoclastic', 12), ('volcanogen', 1), ('volcanogenic', 12)]",54
+910,barren,108,"[('barren', 108)]",54
+912,potassium,107,"[('potassium', 107)]",54
+913,sheet,107,"[('sheet', 107), ('sheety', 1)]",54
+916,hammer,106,"[('hammer', 106)]",54
+917,air,106,"[('air', 106), ('airborne', 2), ('aire', 1), ('airfal', 1), ('airfall', 93), ('airlain', 1), ('airport', 29), ('airstr', 1), ('airy', 9)]",54
+919,visible,105,"[('visible', 105)]",54
+920,asp,105,"[('asp', 105), ('aspect', 2), ('aspen', 14), ('asphaltic', 2), ('asphaltite', 3), ('asphaltitic', 1), ('aspy', 63)]",55
+921,peg,105,"[('peg', 105), ('peggy', 4), ('pegm', 4), ('pegma', 2), ('pegmat', 1), ('pegmatetic', 1), ('pegmati', 4), ('pegmatic', 1), ('pegmatit', 2), ('pegmatite', 1503), ('pegmatitic', 126), ('pegmatitie', 3), ('pegmatitite', 1), ('pegmatoid', 26), ('pegmatoidal', 10), ('pegmatoidalgabbro', 1), ('pegmatoipal', 1), ('pegmt', 1), ('pegonatite', 1), ('pegrnetite', 1), ('pegs', 1)]",54
+922,tube,105,"[('tube', 105)]",54
+925,ankerite,104,"[('ankerite', 104), ('ankeritew108', 1)]",56
+928,pod,103,"[('pod', 103), ('podiform', 15)]",54
+930,opal,103,"[('opal', 103), ('opalcine', 1), ('opalescent', 2), ('opaline', 19), ('opalite', 11), ('opalized', 51), ('opalline', 2)]",55
+931,blocky,103,"[('blocky', 103)]",55
+933,trail,102,"[('trail', 102), ('trailer', 1), ('trailhead', 14)]",54
+934,syenodiorite,102,"[('syenodiorite', 102)]",58
+935,paragneiss,102,"[('paragneiss', 102)]",56
+936,cordierite,102,"[('cordierite', 102)]",56
+937,aft,102,"[('aft', 102)]",54
+940,crystalline,101,"[('crystalline', 101)]",55
+941,staining,101,"[('staining', 101)]",54
+942,bluff,101,"[('bluff', 101)]",54
+943,much,101,"[('much', 101), ('mucho', 1)]",54
+944,mill,101,"[('mill', 101), ('miller', 54), ('millerton', 1), ('millhead', 1), ('milligan', 1), ('milligen', 1), ('millimeter', 1), ('millington', 54), ('millsite', 3), ('millwood', 6)]",54
+945,new,101,"[('new', 101), ('newark', 27), ('newb', 1), ('newberry', 72), ('newby', 7), ('newcastle', 3), ('newell', 1), ('newfane', 6), ('newfound', 2), ('newgate', 13), ('newland', 4), ('newman', 1), ('newport', 2), ('newsboy', 6), ('newton', 3)]",54
+948,prop,100,"[('prop', 100), ('proper', 3), ('property', 47), ('proph', 1), ('prophrytic', 1), ('prophylitic', 3), ('prophyllitic', 1), ('prophyritic', 2), ('prophyry', 18), ('proportion', 1), ('propy', 1), ('propyhic', 1), ('propyl', 2), ('propylit', 6), ('propyliti', 1), ('propylitic', 34), ('propylitization', 2), ('propylitized', 49), ('propylized', 5), ('propylytic', 1)]",54
+949,ga,100,"[('ga', 100)]",54
+950,sugary,100,"[('sugary', 100)]",55
+951,uraniferous,100,"[('uraniferous', 100)]",57
+953,slope,99,"[('slope', 99), ('slope8', 1)]",54
+957,cinnabar,98,"[('cinnabar', 98)]",56
+959,chief,98,"[('chief', 98), ('chieflo', 1), ('chieftan', 9)]",54
+960,older,98,"[('older', 98)]",54
+964,strong,96,"[('strong', 96), ('stronghold', 1), ('strongle', 1)]",54
+965,salt,96,"[('salt', 96), ('saltash', 7), ('saltelitic', 1), ('salton', 11), ('salty', 5)]",54
+966,cave,96,"[('cave', 96), ('cavern', 6)]",54
+970,zeolite,95,"[('zeolite', 95)]",56
+971,garn,95,"[('garn', 95), ('garne', 1), ('garner', 3), ('garnet', 1295), ('garnetifeous', 1), ('garnetiferous', 93), ('garnetifrous', 1), ('garnetironore', 1), ('garnetitarous', 1), ('garnetite', 66), ('garnitiferous', 2)]",54
+972,eye,94,"[('eye', 94), ('eyebrow', 1), ('eyed', 3)]",54
+975,phlogopite,94,"[('phlogopite', 94)]",57
+976,camp,94,"[('camp', 94), ('campbell', 16), ('campeau', 1), ('campg', 3), ('campground', 19), ('campito', 5), ('campsite', 1), ('camptonite', 26), ('camp1', 1)]",54
+977,country,94,"[('country', 94)]",54
+978,center,94,"[('center', 94)]",54
+980,loa,94,"[('loa', 94), ('load', 2), ('loading', 1), ('loaf', 4), ('loaloa', 1), ('loam', 13), ('loamy', 6)]",55
+982,powder,94,"[('powder', 94), ('powdered', 45), ('powderhorn', 7), ('powderhouse', 1), ('powdery', 15)]",54
+984,body,93,"[('body', 93)]",54
+986,face,93,"[('face', 93)]",54
+988,roof,93,"[('roof', 93), ('roofrock', 2)]",54
+990,eruption,93,"[('eruption', 93)]",54
+991,garnetiferous,93,"[('garnetiferous', 93)]",57
+995,thinly,93,"[('thinly', 93)]",54
+997,tremolite,92,"[('tremolite', 92)]",56
+998,fork,92,"[('fork', 92), ('forked', 1)]",54
+1001,adjacent,91,"[('adjacent', 91), ('adjacenttoauagveinsminedin186675', 1)]",54
+1002,graph,91,"[('graph', 91), ('graphic', 50), ('graphite', 133), ('graphiti', 1), ('graphitic', 257), ('graphtic', 6)]",54
+1004,el,91,"[('el', 91)]",54
+1005,porcelanite,91,"[('porcelanite', 91)]",57
+1006,hybrid,91,"[('hybrid', 91), ('hybridite', 12), ('hybridized', 28)]",54
+1007,limburgite,91,"[('limburgite', 91)]",55
+1010,pine,90,"[('pine', 90), ('pinec', 1), ('pinecone', 1), ('piney', 1)]",54
+1011,lineated,90,"[('lineated', 90)]",55
+1012,rind,90,"[('rind', 90)]",55
+1013,kaolinite,90,"[('kaolinite', 90)]",56
+1014,percent,90,"[('percent', 90), ('percentage', 1)]",54
+1015,interior,90,"[('interior', 90)]",54
+1016,spinifex,90,"[('spinifex', 90)]",56
+1019,bull,89,"[('bull', 89), ('bulldog', 1), ('bulldozer', 2), ('bullethole', 1), ('bullfrog', 87), ('bullion', 14), ('bullo', 1), ('bullock', 1)]",54
+1020,shaft,89,"[('shaft', 89)]",54
+1021,drilling,89,"[('drilling', 89)]",54
+1022,fragment,89,"[('fragment', 89), ('fragmental', 1370), ('fragmentation', 1), ('fragmented', 11), ('fragmentfrom', 1)]",54
+1024,spodumene,89,"[('spodumene', 89)]",57
+1025,swarm,88,"[('swarm', 88)]",54
+1026,sub,88,"[('sub', 88), ('subaereal', 1), ('subaerial', 10), ('subalkalic', 4), ('subalkaline', 2), ('subang', 3), ('subangular', 11), ('subarkose', 13), ('subarkosic', 1), ('subcoticule', 2), ('subcrop', 10), ('subequal', 12), ('subequig', 3), ('subequigranular', 14), ('subfeldspathic', 3), ('subfissile', 5), ('subfissle', 1), ('subgraywacke', 6), ('subgroup', 1), ('subhedral', 27), ('subhorizontal', 1), ('subinterstitial', 1), ('subl', 5), ('sublayer', 91), ('sublevel', 1), ('sublitharenite', 16), ('sublithatenite', 2), ('submarine', 28), ('subophitic', 7), ('subordinate', 6), ('subovoid', 1), ('subparallel', 1), ('subphyllite', 2), ('subphyric', 7), ('subporph', 1), ('subporphyriti', 1), ('subporphyritic', 9), ('subpumic', 1), ('subrd', 1), ('subrdd', 1), ('subrop', 1), ('subround', 10), ('subrounded', 2), ('subsample', 3), ('substage', 2), ('substantial', 4), ('substrate', 6), ('subsurface', 22), ('subterrane', 13), ('subunit', 28), ('subv', 5), ('subvertical', 2), ('subvitreous', 5), ('subvolc', 12), ('subvolcanic', 34)]",54
+1028,quartzose,88,"[('quartzose', 88)]",55
+1029,tasmanite,88,"[('tasmanite', 88)]",56
+1030,toe,87,"[('toe', 87)]",54
+1031,normative,87,"[('normative', 87)]",55
+1032,half,87,"[('half', 87), ('halfmoon', 1), ('halfway', 2)]",54
+1033,system,87,"[('system', 87)]",54
+1034,cord,87,"[('cord', 87), ('cordera', 1), ('cordero', 4), ('cordex', 38), ('cordierite', 102), ('cordiertie', 1), ('cordiorite', 1), ('cordon', 1), ('cordova', 4), ('corduroy', 1)]",54
+1035,bullfrog,87,"[('bullfrog', 87)]",55
+1036,plutonic,86,"[('plutonic', 86)]",55
+1037,giant,86,"[('giant', 86)]",54
+1042,apatite,85,"[('apatite', 85)]",56
+1045,wash,85,"[('wash', 85), ('washington', 9), ('washout', 1)]",54
+1046,few,85,"[('few', 85), ('fewgra', 1)]",54
+1047,th,85,"[('th', 85)]",54
+1051,cinder,84,"[('cinder', 84), ('cinderella', 2)]",55
+1052,arsenopyrite,84,"[('arsenopyrite', 84), ('arsenopyriterite', 6)]",56
+1053,lode,84,"[('lode', 84)]",55
+1054,la,84,"[('la', 84)]",54
+1056,plume,84,"[('plume', 84)]",55
+1058,cycle,84,"[('cycle', 84), ('cyclebasalt', 1)]",54
+1060,age,83,"[('age', 83), ('agelomerate', 2)]",54
+1061,tongue,83,"[('tongue', 83)]",54
+1062,southern,83,"[('southern', 83), ('southernmost', 2)]",54
+1064,potassic,82,"[('potassic', 82)]",55
+1068,perlite,82,"[('perlite', 82)]",55
+1069,bronzitite,82,"[('bronzitite', 82)]",57
+1073,sinter,81,"[('sinter', 81), ('sinterd', 1), ('sinterlike', 1)]",55
+1074,siderite,81,"[('siderite', 81)]",55
+1075,hypabyssal,81,"[('hypabyssal', 81)]",57
+1077,dry,81,"[('dry', 81), ('drywood', 1)]",54
+1084,shore,80,"[('shore', 80), ('shoreface', 1), ('shoreline', 9)]",54
+1085,jasper,80,"[('jasper', 80), ('jasperiod', 3), ('jasperitic', 2), ('jasperized', 11), ('jasperoi', 2), ('jasperoic', 1), ('jasperoid', 849), ('jasperoidal', 5), ('jaspery', 1)]",55

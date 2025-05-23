@@ -8,8 +8,7 @@ from BinVectorMarker import BinVectorMarker
 def save_to_pickle(obj_name:str , data) -> None:
     """
         Descr:
-            This function will just save a
-
+            This function will just save a 
 
         Args:
 
@@ -82,16 +81,9 @@ def gen_csvs(sample_descs:pd.Series,out_dir='LITHO_CSVS',use_cache_if_exists=Tru
 if __name__ == "__main__":
     CWD             = os.getcwd()
     BRIT_DF_PATH    = os.path.join(CWD,"British Columbia","Lithogeochemical","lithogeochem_data.csv")
-    USGS_DF_PATH    = os.path.join(CWD,"USGS","Concentration_lithology_data.csv")
-    SARGI_DF_PATH   = os.path.join(CWD,"SARIG","rock_lith_mod_counts_sarig.csv")
-    ONTARIO_DF_PATH = os.path.join(CWD,"Ontario", "Ontario_rock.csv")
-
-
-    
+  
     brit_df       = open_csv_df(BRIT_DF_PATH)
-    usgs_df       = open_csv_df(USGS_DF_PATH)
-    sarig_df      = open_csv_df(SARGI_DF_PATH)
-    ontario_df    = open_csv_df(ONTARIO_DF_PATH)
+   
 
     df:pd.Series = pd.concat([
                     brit_df['Sample_Desc'], 
@@ -116,7 +108,9 @@ if __name__ == "__main__":
 
     
     sim_key_word_csv_path = os.path.join(CWD,csv_out_folder,"similar_keywords_compressed_freq.csv")
-    word_def_csv_path    = os.path.join(CWD,csv_out_folder,"word_def.csv")
+    word_def_csv_path     = os.path.join(CWD,csv_out_folder,"word_def.csv")
+
+
     BIN_VEC_MARKER = BinVectorMarker(sim_key_word_csv_path,word_def_csv_path)
 
 
