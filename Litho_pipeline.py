@@ -80,7 +80,7 @@ def gen_csvs(sample_descs:pd.Series,out_dir='LITHO_CSVS',use_cache_if_exists=Tru
 
 if __name__ == "__main__":
     CWD             = os.getcwd()
-    BRIT_DF_PATH    = os.path.join(CWD,"British Columbia","Lithogeochemical","lithogeochem_data.csv")
+    BRIT_DF_PATH    = os.path.join(CWD,"lithogeochem_data.csv")
   
     brit_df       = open_csv_df(BRIT_DF_PATH)
    
