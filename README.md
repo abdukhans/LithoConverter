@@ -27,5 +27,5 @@ Then just run:
 <pre>python ./Litho_pipeline.py</pre>
 
 
-It should just work.
+It should just work. If you see a "bin_vec.csv" file in your CWD that means it worked.
 
