@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from DefnWordGraph import DefnWordGraph
+from .DefnWordGraph import DefnWordGraph
 import os
 from tqdm import tqdm
 
