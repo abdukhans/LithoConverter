@@ -1,6 +1,4 @@
 # LithoConverter
 
 
-This branch will contain the MAIN code. The code in this branch is supposed be the FINAL PACKAGED version of the LithoConverter.  
-
-The requirement.txt ONLY has the libraries that are used to create this package.   
+This branch is for Abdullah, and will use this branch to merge with main.
