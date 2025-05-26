@@ -5,8 +5,8 @@ import chardet
 import pickle
 
 from difflib import SequenceMatcher
-from DictTree import LetterNode
-from DictTree import ALPHABETS
+from .DictTree import LetterNode
+from .DictTree import ALPHABETS
 import numpy as np
 import csv
 import re
