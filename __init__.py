@@ -1,3 +1,3 @@
-from BinVectorMarker import BinVectorMarker
-from GenSimKWFreq import gen_similar_word_freq_csv,open_csv_df,gen_eng_compressed_csv,gen_llm_word_def_csv
-from Litho_pipeline import gen_csvs
+from .BinVectorMarker import BinVectorMarker
+from .GenSimKWFreq import gen_similar_word_freq_csv,open_csv_df,gen_eng_compressed_csv,gen_llm_word_def_csv
+from .Litho_pipeline import gen_csvs
