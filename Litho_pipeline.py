@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np 
 import os
 import pickle
-from GenSimKWFreq import gen_similar_word_freq_csv,open_csv_df,gen_eng_compressed_csv,gen_llm_word_def_csv
-from BinVectorMarker import BinVectorMarker
+from .GenSimKWFreq import gen_similar_word_freq_csv,open_csv_df,gen_eng_compressed_csv,gen_llm_word_def_csv
+from .BinVectorMarker import BinVectorMarker
 
 def save_to_pickle(obj_name:str , data) -> None:
     """
@@ -76,48 +76,3 @@ def gen_csvs(sample_descs:pd.Series,out_dir='LITHO_CSVS',use_cache_if_exists=Tru
     out_fp = os.path.join(OUT_CSV_FOLDER,'word_def.csv')
 
     gen_llm_word_def_csv(FILITERED_SIMILAR_KEY_WORD_FREQ_FP,req_fp,res_fp,out_fp)
-
-
-if __name__ == "__main__":
-    CWD             = os.getcwd()
-    BRIT_DF_PATH    = os.path.join(CWD,"British Columbia","Lithogeochemical","lithogeochem_data.csv")
-  
-    brit_df       = open_csv_df(BRIT_DF_PATH)
-   
-
-    df:pd.Series = pd.concat([
-                    brit_df['Sample_Desc'], 
-                    # usgs_df['ADDL_ATTR'],
-                    # usgs_df['SPEC_NAME'],
-                    # usgs_df["XNDRYCLASS"],
-                    # sarig_df['feature'],
-                    # ontario_df['ROCK'],
-                    # ontario_df['ROCK.1'],
-                    # ontario_df['ROCK.2']
-                    ],axis=0)
-
-
-    print(df.shape)
-    csv_out_folder = 'LITHO_CSVS'
-
-
-    if not(os.path.exists(csv_out_folder)):
-        gen_csvs(df,out_dir=csv_out_folder)
-    
-
-
-    
-    sim_key_word_csv_path = os.path.join(CWD,csv_out_folder,"similar_keywords_compressed_freq.csv")
-    word_def_csv_path     = os.path.join(CWD,csv_out_folder,"word_def.csv")
-
-
-    BIN_VEC_MARKER = BinVectorMarker(sim_key_word_csv_path,word_def_csv_path)
-
-
-    bin_vecs= BIN_VEC_MARKER.gen_bin_vecs(df).apply(lambda x: ','.join(map(str, x)))
-
-
-    bin_vec_df = pd.concat([df,bin_vecs],keys=['Sample_Descr','Bin_Vec'],axis=1)
-
-    bin_vec_df.to_csv("bin_vec.csv")
-

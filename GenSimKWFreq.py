@@ -3,10 +3,10 @@ import os
 from  pathlib import Path
 import chardet
 import pickle
-from pattern3.en import lemma
+
 from difflib import SequenceMatcher
-from DictTree import LetterNode
-from DictTree import ALPHABETS
+from .DictTree import LetterNode
+from .DictTree import ALPHABETS
 import numpy as np
 import csv
 import re
@@ -15,7 +15,7 @@ from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
-from pattern3.en import lemma
+
 import nltk
 nltk.download('words')
 from nltk.corpus import words
