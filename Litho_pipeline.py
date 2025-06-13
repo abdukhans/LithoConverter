@@ -35,7 +35,7 @@ def get_pkl_obj(obj_name ) :
     return data
 
  
-def gen_csvs(sample_descs:pd.Series,out_dir='LITHO_CSVS',use_cache_if_exists=True) :
+def gen_csvs(sample_descs:pd.Series,freq_threshold, out_dir='LITHO_CSVS', use_cache_if_exists=True) :
     
 
     CWD:str            = os.getcwd()
@@ -66,7 +66,7 @@ def gen_csvs(sample_descs:pd.Series,out_dir='LITHO_CSVS',use_cache_if_exists=Tru
 
 
     # Create the filtered "similar_keywords_freq.csv" csv file which is called "similar_keywords_compressed_freq.csv"
-    gen_eng_compressed_csv(SIMILAR_KEY_WORD_FREQ_FP,FILITERED_SIMILAR_KEY_WORD_FREQ_FP)
+    gen_eng_compressed_csv(SIMILAR_KEY_WORD_FREQ_FP,FILITERED_SIMILAR_KEY_WORD_FREQ_FP,freq_threshold)
     
 
 

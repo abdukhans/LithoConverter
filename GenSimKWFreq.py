@@ -284,7 +284,7 @@ say anything else, and make sure each keyword is only one word."""
     
     return re.sub(r"\n"," ",prompt)
 
-def gen_eng_compressed_csv(in_fp:str,out_fp:str,FREQ_THRESHOLD=80) -> pd.DataFrame:
+def gen_eng_compressed_csv(in_fp:str,out_fp:str,percent_threshold) -> pd.DataFrame:
     
 
     ATTRIBUTE:str = "Attribute"
@@ -296,7 +296,9 @@ def gen_eng_compressed_csv(in_fp:str,out_fp:str,FREQ_THRESHOLD=80) -> pd.DataFra
     english_mask        = freq_df[ATTRIBUTE].apply(lambda x: is_english_word(str(x)))
 
     freq_df = freq_df[english_mask]
-    freq_mask = freq_df[FREQUENCY].apply(lambda x: int(x) >= FREQ_THRESHOLD)
+    total_freq = freq_df[FREQUENCY].sum()
+    freq_df['Freq_Percentage'] = freq_df[FREQUENCY] / total_freq
+    freq_mask = freq_df['Freq_Percentage'] >= percent_threshold
     freq_df   = freq_df[freq_mask]
 
     freq_df.to_csv(out_fp)
