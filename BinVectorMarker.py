@@ -151,7 +151,7 @@ class BinVectorMarker:
         
 
         
-        result    = np.zeros(self.num_feats)
+        result    = np.zeros(self.num_feats, dtype=np.uint8)
 
         if sample_descr in ['','na','nan','None']:
             return result
