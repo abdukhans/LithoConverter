@@ -174,7 +174,7 @@ class BinVectorMarker:
 
         return result[:self.filtered_num_feats]
 
-    
+    # 这个函数有问题
     def gen_bin_vecs(self,sample_descs:pd.Series) -> pd.Series:
 
         return sample_descs.progress_apply( lambda x : self.gen_bin_vec(str(x)))
