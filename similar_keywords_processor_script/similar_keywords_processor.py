@@ -25,11 +25,11 @@ class CSVProcessor:
         
         self.conn.commit()
     
-    def import_original_csv(self):
+    def import_original_csv(self, csvFile):
         """Import data from original.csv into the database"""
         cursor = self.conn.cursor()
-        
-        with open('original.csv', 'r') as f:
+        # 'original.csv'
+        with open(csvFile, 'r') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 cursor.execute('''
@@ -50,11 +50,11 @@ class CSVProcessor:
         self.conn.commit()
         print(f"Marked {count} single-letter Attribute records for removal")
 
-    def process_task_file(self):
+    def process_task_file(self,csvFile):
         """Process the task.csv file and update the database accordingly"""
         cursor = self.conn.cursor()
-        
-        with open('task.csv', 'r') as f:
+        # 'task.csv'
+        with open(csvFile, 'r') as f:
             # Read with stripped whitespace and case-insensitive column matching
             reader = csv.DictReader(f, skipinitialspace=True)
             
@@ -91,11 +91,11 @@ class CSVProcessor:
         
         self.conn.commit()
     
-    def generate_new_csv(self):
+    def generate_new_csv(self,csvFile):
         """Generate the new.csv file based on the processed data"""
         cursor = self.conn.cursor()
-        
-        with open('new.csv', 'w', newline='') as f:
+        #'new.csv'
+        with open(csvFile, 'w', newline='') as f:
             writer = csv.writer(f)
             writer.writerow(['Attribute', 'Frequency', 'Similar_Words'])
             
@@ -153,11 +153,11 @@ class CSVProcessor:
         """Run the complete processing pipeline"""
         try:
             self.create_database()
-            self.import_original_csv()
+            self.import_original_csv('similar_keywords_freq.csv') #orignal csv file name
             self.mark_single_letter_attributes()
-            self.process_task_file()
-            self.generate_new_csv()
-            print("Processing complete. Output written to new.csv")
+            self.process_task_file('task.csv') # task is a csv file
+            self.generate_new_csv('new_keywords.csv') # please change the csv file name
+            print("Processing complete. Output written to new csv file")
         except Exception as e:
             print(f"Error occurred: {e}")
         finally:
@@ -166,3 +166,8 @@ class CSVProcessor:
 if __name__ == '__main__':
     processor = CSVProcessor()
     processor.run()
+
+# task.csv demo
+# Task, Word
+# rm, "rock"
+# combine, "rhyolite, schist"
