@@ -171,3 +171,5 @@ if __name__ == '__main__':
 # Task, Word
 # rm, "rock"
 # combine, "rhyolite, schist"
+
+# Please reading the details at this url:https://github.com/abdukhans/LithoConverter/tree/max-test
